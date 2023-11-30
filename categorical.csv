@@ -182,6 +182,7 @@ FL,9,U,F,1,L,F,C,U,3
 WA,27,H,F,3,L,F,A,C,2
 other,41,H,F,2,L,F,D,T,3
 NC,40,H,F,3,L,E,D,T,2
+other,10,U,Oth,1,L,F,A,U,4
 other,51,U,M,1,L,F,D,R,3
 CA,20,H,F,3,L,G,A,S,2
 FL,46,U,F,1,L,E,B,R,2
@@ -260,6 +261,7 @@ MI,36,H,M,2,L,F,C,T,2
 other,36,H,M,3,L,D,B,T,2
 IN,36,U,F,3,L,F,D,T,2
 CA,27,U,M,1,L,E,C,C,2
+other,10,U,F,1,L,G,A,U,4
 GA,14,H,M,3,L,F,A,S,1
 other,15,U,M,2,L,F,A,S,1
 GA,25,H,F,3,L,F,A,C,2
@@ -396,6 +398,7 @@ TX,40,H,F,3,L,G,B,R,2
 other,7,U,F,2,L,F,A,U,2
 other,43,U,M,3,L,E,D,R,2
 other,36,H,F,2,L,G,C,T,2
+other,10,U,M,1,L,G,A,U,4
 CA,3,H,F,3,L,G,A,U,1
 MI,44,U,M,3,L,G,C,R,2
 FL,10,U,F,1,L,F,A,U,4
@@ -573,6 +576,7 @@ FL,26,H,M,3,L,G,B,C,2
 other,42,H,F,3,L,F,D,R,1
 CA,20,H,M,3,L,E,A,S,2
 other,36,U,Oth,1,L,E,D,T,2
+FL,9,H,F,2,L,E,A,U,3
 other,40,U,F,1,L,D,B,T,2
 MO,30,H,F,3,L,F,B,C,3
 other,17,H,F,2,L,E,B,S,2
@@ -940,6 +944,7 @@ FL,20,U,M,1,L,F,A,S,2
 other,51,U,M,2,L,E,D,R,3
 WI,10,H,F,3,L,F,A,U,4
 MI,49,H,F,3,L,E,B,R,2
+other,10,U,F,1,L,F,A,U,4
 WI,51,U,F,1,L,F,C,R,3
 other,40,H,F,3,L,D,D,T,2
 other,11,H,F,3,L,F,A,S,1
@@ -1113,6 +1118,7 @@ CA,43,U,F,2,L,F,C,R,2
 TX,19,H,M,2,L,F,B,S,2
 CA,48,H,F,2,L,F,B,R,2
 CA,8,H,F,3,L,G,A,U,3
+FL,29,U,F,1,L,F,A,C,2
 WI,49,U,M,2,L,F,D,R,2
 CA,20,H,F,1,L,G,A,S,2
 CA,10,H,F,3,L,E,A,U,4
@@ -1130,6 +1136,7 @@ other,24,U,F,1,L,G,B,C,1
 other,24,H,M,3,L,G,B,C,1
 FL,15,U,F,1,L,F,B,S,1
 CA,2,H,M,2,L,F,A,U,1
+other,40,U,M,1,L,G,A,R,2
 CA,6,U,F,3,L,F,A,U,2
 CA,12,U,M,1,L,F,A,S,1
 IL,5,U,M,1,L,G,A,U,2
@@ -1306,6 +1313,7 @@ other,18,H,M,2,L,D,D,S,2
 other,35,H,M,3,L,F,C,T,1
 MI,40,H,F,3,L,F,A,T,2
 IN,11,H,M,1,L,G,B,S,1
+other,10,U,M,1,L,F,A,U,4
 other,40,H,F,3,L,F,C,R,2
 NC,45,H,M,2,L,G,D,R,2
 TX,21,U,F,1,L,D,B,S,3
@@ -1325,6 +1333,7 @@ GA,16,H,F,2,L,F,A,S,2
 other,49,U,M,3,L,E,D,R,2
 NC,34,H,F,3,L,F,B,T,1
 TX,35,U,F,2,L,G,A,T,1
+other,10,U,M,1,L,F,A,U,4
 MI,16,U,M,1,L,E,A,S,2
 other,36,H,M,3,L,F,B,T,2
 MI,11,U,F,3,L,F,A,S,1
@@ -2164,6 +2173,7 @@ other,40,H,M,3,L,E,C,T,2
 other,51,U,F,3,L,E,D,R,3
 other,19,H,Oth,3,L,F,B,S,2
 CA,19,H,F,1,L,F,A,S,2
+other,42,U,M,3,L,G,A,R,1
 IN,14,U,M,3,L,E,B,S,1
 CA,11,H,F,3,L,G,B,S,1
 CA,19,H,M,3,L,F,A,S,2
@@ -2239,6 +2249,7 @@ GA,3,U,F,1,L,E,A,U,1
 other,24,U,F,3,L,G,B,C,1
 TX,24,H,F,2,L,F,A,C,1
 other,45,H,M,2,L,F,D,R,2
+GA,36,U,M,3,L,G,A,T,2
 MI,49,H,M,3,L,D,B,R,2
 CA,7,H,F,3,L,G,A,U,2
 TX,37,H,M,3,L,E,B,T,2
@@ -2488,6 +2499,7 @@ other,17,H,F,3,L,E,C,S,2
 other,39,U,F,2,L,F,D,T,2
 other,35,H,F,3,L,D,B,T,1
 IN,46,U,F,1,L,F,D,R,2
+other,10,U,F,1,L,D,A,U,4
 CA,40,U,F,3,L,D,A,R,2
 CA,19,H,M,3,L,F,A,S,2
 CA,9,H,F,3,L,F,A,U,3
@@ -2668,6 +2680,7 @@ FL,11,H,F,1,L,F,A,S,1
 FL,42,H,F,2,L,F,D,R,1
 other,53,H,F,2,L,E,D,R,3
 CA,11,U,M,1,L,F,A,S,1
+other,30,U,F,2,L,F,A,C,3
 other,45,U,M,2,L,E,D,R,2
 MI,18,H,M,2,L,F,D,S,2
 FL,18,H,M,3,L,F,A,S,2
@@ -2703,6 +2716,7 @@ NC,40,H,F,2,L,E,B,T,2
 TX,24,H,Oth,3,L,E,A,C,1
 other,5,H,F,3,L,G,B,U,2
 FL,20,H,F,3,L,E,A,S,2
+other,20,U,M,1,L,F,A,S,2
 other,40,U,M,3,L,F,D,T,2
 other,46,U,M,1,L,F,C,R,2
 FL,16,H,M,3,L,E,B,S,2
@@ -3030,6 +3044,7 @@ CA,20,H,M,3,L,E,A,S,2
 MI,13,H,F,3,L,F,A,S,1
 FL,10,H,M,3,L,F,A,U,4
 NC,44,H,M,2,L,F,B,R,2
+other,44,U,M,2,L,F,A,R,2
 CA,1,U,F,1,L,G,A,U,1
 other,47,U,M,1,L,E,D,R,2
 other,27,H,F,3,L,F,C,C,2
@@ -3310,6 +3325,7 @@ MI,49,U,F,3,L,G,D,R,2
 FL,28,U,F,1,L,F,A,C,2
 TX,14,H,F,3,L,G,B,S,1
 TX,40,U,F,3,L,E,D,R,2
+GA,32,U,M,1,L,G,A,C,3
 CA,26,H,M,3,L,E,C,C,2
 other,51,U,F,1,L,F,D,R,3
 MI,39,U,F,1,L,F,C,T,2
@@ -3414,6 +3430,7 @@ MO,28,U,F,1,L,G,A,C,2
 CA,28,H,Oth,2,L,F,B,C,2
 TX,3,H,F,3,L,G,A,U,1
 WI,53,H,M,3,L,E,D,R,3
+other,22,H,M,2,L,F,A,C,1
 other,16,H,F,3,L,D,B,S,2
 other,49,H,M,3,L,F,B,R,2
 FL,18,H,M,1,L,D,B,S,2
@@ -3483,6 +3500,7 @@ other,35,H,M,3,L,F,C,T,1
 MI,31,H,M,3,L,G,D,C,3
 TX,46,U,M,1,L,G,D,R,2
 MO,49,H,M,2,L,E,D,R,2
+other,42,H,F,3,L,F,A,R,1
 other,39,U,M,1,L,G,A,T,2
 CA,7,H,M,3,L,E,B,U,2
 IL,40,H,F,2,L,F,A,T,2
@@ -4237,6 +4255,7 @@ other,46,H,M,2,L,D,D,R,2
 IL,35,H,F,3,L,F,A,T,1
 other,32,H,M,3,L,F,B,C,3
 NC,25,U,F,2,L,G,B,C,2
+other,44,U,F,1,L,G,A,R,2
 other,49,U,F,1,L,D,C,R,2
 other,43,U,F,3,L,F,D,R,2
 GA,12,H,M,1,L,F,A,S,1
@@ -4409,6 +4428,7 @@ other,24,U,F,1,L,E,B,C,1
 other,46,U,M,3,L,F,D,R,2
 other,42,H,Oth,2,L,G,B,R,1
 FL,32,H,F,3,L,G,B,C,3
+other,10,U,M,1,L,F,A,U,4
 MI,7,H,M,3,L,G,A,U,2
 IL,22,U,M,2,L,G,A,C,1
 CA,24,U,F,1,L,F,A,C,1
@@ -4523,6 +4543,7 @@ other,49,H,M,3,L,F,B,R,2
 GA,42,H,F,2,L,F,D,R,1
 other,29,U,M,1,L,F,A,C,2
 TX,30,H,F,2,L,F,B,C,3
+other,40,H,F,2,L,F,A,T,2
 CA,17,H,F,1,L,E,A,S,2
 CA,3,H,M,3,L,F,A,U,1
 other,36,H,F,2,L,G,B,T,2
@@ -4683,6 +4704,7 @@ MI,49,U,F,1,L,E,A,R,2
 NC,40,U,F,1,L,D,B,T,2
 other,36,U,F,3,L,E,B,T,2
 MI,49,H,M,2,L,F,C,R,2
+other,10,U,F,1,L,D,A,U,4
 WI,40,H,M,3,L,F,B,T,2
 IN,16,H,M,2,L,F,A,S,2
 other,20,H,M,3,L,E,B,S,2
@@ -5114,6 +5136,7 @@ TX,31,U,F,1,L,F,A,C,3
 TX,12,H,M,3,L,G,A,S,1
 other,30,H,M,3,L,F,A,C,3
 other,21,U,F,1,L,F,B,S,3
+other,11,H,F,1,L,F,A,S,1
 other,51,U,M,3,L,F,D,R,3
 other,40,U,M,2,L,F,D,R,2
 CA,25,U,M,1,L,F,A,C,2
@@ -5534,6 +5557,7 @@ WA,36,U,M,1,L,F,A,T,2
 other,40,H,F,3,L,E,B,T,2
 WA,35,H,M,2,L,F,A,T,1
 CA,22,H,F,3,L,F,A,C,1
+NC,36,H,M,3,L,E,A,T,2
 IN,49,H,M,3,L,G,C,R,2
 other,40,H,M,3,L,E,D,R,2
 other,10,H,M,3,L,F,B,U,4
@@ -5742,6 +5766,7 @@ other,24,H,M,3,L,E,C,C,1
 MI,30,H,M,2,L,F,B,C,3
 NC,40,U,M,1,L,F,B,R,2
 FL,35,U,M,1,L,D,C,T,1
+GA,11,H,M,2,L,D,A,S,1
 other,10,H,F,3,L,E,B,U,4
 TX,30,H,F,3,L,D,B,C,3
 NC,27,H,F,3,L,E,B,C,2
@@ -6006,6 +6031,7 @@ CA,3,H,F,3,L,D,A,U,1
 other,39,U,F,1,L,E,B,T,2
 other,24,H,F,2,L,F,A,C,1
 MO,28,H,F,3,L,E,B,C,2
+other,10,U,F,1,L,F,A,U,4
 other,36,H,M,3,L,E,C,T,2
 other,51,H,F,3,L,G,C,R,3
 CA,13,U,F,1,L,G,A,S,1
@@ -6132,6 +6158,7 @@ CA,6,H,F,3,L,F,A,U,2
 other,25,H,M,3,L,E,C,C,2
 GA,49,U,M,1,L,D,A,R,2
 FL,11,H,M,3,L,F,A,S,1
+other,10,U,F,1,L,F,A,U,4
 CA,11,H,F,3,L,G,A,S,1
 CA,27,H,F,2,L,F,C,C,2
 MI,41,U,M,2,L,E,C,T,3
@@ -6539,6 +6566,7 @@ MI,44,H,M,3,L,F,C,R,2
 NC,49,H,M,2,L,E,C,R,2
 other,31,U,F,1,L,D,B,C,3
 other,30,H,F,3,L,F,B,C,3
+other,10,U,F,1,L,G,A,U,4
 TX,11,U,F,1,L,F,B,S,1
 TX,40,H,Oth,2,L,E,C,T,2
 CA,30,H,F,2,L,F,A,C,3
@@ -6586,6 +6614,7 @@ CA,14,U,M,1,L,F,A,S,1
 CA,42,H,M,2,L,G,C,R,1
 TX,42,H,F,3,L,F,D,R,1
 WI,3,U,M,3,L,F,B,U,1
+other,25,H,F,2,L,E,A,C,2
 CA,11,H,M,1,L,G,A,S,1
 MI,8,H,F,3,L,F,A,U,3
 MI,31,H,F,2,L,D,A,C,3
@@ -7195,6 +7224,7 @@ CA,8,U,M,1,L,F,A,U,3
 MI,12,H,F,2,L,F,A,S,1
 FL,32,U,F,1,L,F,B,C,3
 other,27,H,M,2,L,F,C,C,2
+other,49,U,F,2,L,E,A,R,2
 other,48,U,M,1,L,F,C,R,2
 other,49,H,M,3,L,E,D,R,2
 NC,47,U,M,2,L,F,D,R,2
@@ -7852,6 +7882,7 @@ other,22,H,F,3,L,F,B,C,1
 FL,14,H,M,3,L,F,B,S,1
 other,1,U,F,3,L,F,A,U,1
 MI,11,U,Oth,2,L,F,A,S,1
+other,41,H,M,2,L,F,A,T,3
 IL,24,H,F,3,L,G,A,C,1
 other,7,H,M,3,L,F,B,U,2
 other,40,H,M,3,L,G,B,R,2
@@ -7859,6 +7890,7 @@ WI,12,H,F,3,L,E,D,S,1
 CA,27,H,M,2,L,F,A,C,2
 other,11,U,M,1,L,F,B,S,1
 FL,9,U,F,1,L,F,A,U,3
+other,42,H,F,3,L,E,A,R,1
 MI,32,U,F,1,L,F,B,C,3
 WI,49,H,M,2,L,F,C,R,2
 CA,34,H,M,2,L,E,A,T,1
@@ -8088,6 +8120,7 @@ WA,41,H,F,2,L,F,B,T,3
 MO,45,H,M,2,L,E,B,R,2
 other,17,H,F,3,L,F,B,S,2
 FL,38,H,F,3,L,F,A,T,2
+other,10,U,F,1,L,E,A,U,4
 other,35,H,F,2,L,F,B,T,1
 other,18,H,F,3,L,E,B,S,2
 TX,44,H,F,3,L,F,A,R,2
@@ -9245,6 +9278,7 @@ other,20,U,M,1,L,F,B,S,2
 MO,11,H,F,3,L,G,A,S,1
 other,18,H,M,3,L,D,B,S,2
 CA,3,U,F,1,L,E,D,U,1
+GA,41,H,F,2,L,F,A,T,3
 NC,14,H,F,2,L,E,B,S,1
 other,40,H,F,2,L,F,B,T,2
 FL,29,U,F,1,L,G,C,C,2
@@ -9760,6 +9794,7 @@ IL,32,H,Oth,3,L,E,A,C,3
 FL,34,H,M,3,L,D,B,T,1
 other,41,H,M,2,L,E,D,T,3
 TX,13,H,M,3,L,F,B,S,1
+NC,51,U,F,1,L,E,A,R,3
 MI,44,H,F,3,L,G,B,R,2
 CA,23,U,F,3,L,F,A,C,1
 CA,4,U,F,2,L,F,A,U,2
@@ -9951,6 +9986,7 @@ other,12,H,F,2,L,D,B,S,1
 WI,40,U,F,3,L,G,C,T,2
 CA,5,U,F,1,L,F,A,U,2
 other,27,H,F,3,L,G,B,C,2
+other,40,H,M,3,L,F,A,T,2
 other,51,H,M,2,L,F,B,R,3
 CA,17,U,M,1,L,D,A,S,2
 other,27,U,F,1,L,F,C,C,2
@@ -10299,6 +10335,7 @@ NC,41,U,M,1,L,G,C,T,3
 MI,45,H,F,3,L,F,D,R,2
 WA,14,H,F,3,L,E,C,S,1
 CA,13,U,F,1,L,F,A,S,1
+other,52,H,F,2,L,F,A,R,3
 NC,24,U,M,3,L,F,B,C,1
 MI,40,U,F,1,L,G,B,T,2
 TX,38,H,M,3,L,E,A,T,2
@@ -11933,6 +11970,7 @@ CA,35,H,M,3,L,F,B,T,1
 other,46,U,M,2,L,F,A,R,2
 CA,13,H,F,3,L,F,A,S,1
 TX,2,U,F,1,L,E,C,U,1
+IL,8,U,M,2,L,D,A,U,3
 FL,2,H,F,3,L,F,A,U,1
 CA,24,H,F,3,L,D,A,C,1
 WI,35,U,M,2,L,G,B,T,1
@@ -12093,6 +12131,7 @@ other,35,U,M,1,L,F,D,T,1
 IL,22,U,F,1,L,E,C,C,1
 CA,21,H,M,3,L,F,A,S,3
 other,51,U,M,1,L,F,D,R,3
+other,10,U,F,1,L,G,A,U,4
 MO,30,H,F,2,L,F,C,C,3
 TX,13,H,F,3,L,F,A,S,1
 other,24,H,M,3,L,G,C,C,1
@@ -12165,6 +12204,7 @@ IL,40,U,F,2,L,F,A,R,2
 IN,49,U,F,1,L,F,D,R,2
 other,49,U,F,3,L,E,D,R,2
 other,36,U,F,1,L,D,D,T,2
+TX,32,U,M,2,L,F,A,C,3
 CA,27,U,F,1,L,D,B,C,2
 other,34,U,M,3,L,F,B,T,1
 CA,52,H,M,2,L,E,B,R,3
@@ -12349,6 +12389,7 @@ CA,20,U,M,1,L,E,A,S,2
 FL,3,U,F,1,L,F,A,U,1
 other,18,U,M,3,L,E,B,S,2
 other,39,H,F,3,L,E,B,T,2
+GA,35,U,F,1,L,E,A,T,1
 MO,38,U,M,1,L,E,B,T,2
 FL,37,U,F,2,L,E,D,T,2
 other,4,U,F,3,L,F,A,U,2
@@ -12530,6 +12571,8 @@ other,40,H,F,3,L,F,B,R,2
 MI,49,H,F,2,L,E,A,R,2
 FL,35,H,F,3,L,F,B,T,1
 MI,40,U,F,2,L,F,A,T,2
+GA,35,H,F,3,L,G,A,T,1
+FL,7,U,M,1,L,F,A,U,2
 IL,16,H,F,2,L,F,A,S,2
 TX,24,H,F,3,L,G,A,C,1
 other,40,H,M,3,L,E,B,T,2
@@ -12951,6 +12994,7 @@ other,34,H,M,2,L,G,C,T,1
 CA,15,U,M,1,L,F,A,S,1
 MI,51,U,F,1,L,G,D,R,3
 WA,40,U,F,1,L,F,A,R,2
+other,24,H,F,3,L,F,A,C,1
 other,51,U,F,2,L,F,D,R,3
 other,39,H,F,2,L,F,C,T,2
 TX,30,H,M,3,L,F,A,C,3
@@ -14072,6 +14116,7 @@ other,12,U,M,1,L,F,B,S,1
 CA,40,H,F,3,L,F,A,R,2
 CA,19,H,F,3,L,G,A,S,2
 CA,44,U,M,1,L,F,B,R,2
+other,16,U,M,1,L,F,A,S,2
 other,44,U,M,2,L,G,C,R,2
 IL,30,H,M,3,L,E,B,C,3
 CA,26,H,F,2,L,F,A,C,2
@@ -14864,6 +14909,7 @@ FL,23,U,F,3,L,G,B,C,1
 GA,24,H,M,2,L,F,B,C,1
 IL,14,U,F,3,L,E,A,S,1
 WA,35,U,M,1,L,G,C,T,1
+other,40,H,M,3,L,G,A,R,2
 NC,40,H,F,2,L,F,C,T,2
 CA,10,H,F,1,L,F,A,U,4
 TX,15,H,M,3,L,F,B,S,1
@@ -15015,6 +15061,7 @@ other,49,H,M,3,L,G,B,R,2
 MI,10,H,F,2,L,G,A,U,4
 TX,49,H,F,2,L,F,A,R,2
 FL,28,H,F,3,L,G,B,C,2
+other,40,U,M,1,L,G,A,R,2
 other,32,H,F,3,L,E,B,C,3
 MI,40,U,F,1,L,G,B,T,2
 WI,36,H,M,3,L,D,D,T,2
@@ -15719,6 +15766,7 @@ TX,35,H,M,3,L,D,A,T,1
 other,17,U,F,3,L,F,A,S,2
 CA,5,H,F,3,L,G,A,U,2
 CA,13,H,F,2,L,E,A,S,1
+other,39,U,F,2,L,F,A,T,2
 IL,30,U,M,2,L,F,A,C,3
 CA,20,U,F,1,L,F,A,S,2
 TX,40,U,F,2,L,G,C,R,2
@@ -16736,6 +16784,7 @@ CA,21,U,F,1,L,E,A,S,3
 other,36,U,F,1,L,E,B,T,2
 FL,23,H,F,3,L,F,B,C,1
 MI,49,U,M,1,L,F,C,R,2
+other,10,U,M,1,L,F,A,U,4
 WI,12,H,F,3,L,F,B,S,1
 IL,53,H,F,3,L,E,D,R,3
 IN,43,U,F,1,L,G,D,R,2
@@ -17048,6 +17097,7 @@ GA,18,U,F,1,L,F,A,S,2
 NC,35,U,F,1,L,G,C,T,1
 other,41,U,M,1,L,D,B,T,3
 WI,25,H,M,3,L,F,C,C,2
+FL,7,U,F,2,L,G,A,U,2
 IL,2,H,M,2,L,G,A,U,1
 CA,24,H,F,1,L,F,A,C,1
 other,9,U,M,1,L,F,B,U,3
@@ -17917,6 +17967,7 @@ IL,30,H,F,3,L,G,A,C,3
 other,31,U,F,1,L,D,C,C,3
 CA,11,H,F,3,L,G,A,S,1
 GA,49,U,M,1,L,F,D,R,2
+other,44,H,Oth,2,L,G,A,R,2
 CA,1,H,M,3,L,F,A,U,1
 CA,24,H,M,2,L,G,A,C,1
 IL,1,U,F,1,L,D,A,U,1
@@ -18557,6 +18608,7 @@ other,35,H,F,3,L,E,B,T,1
 other,40,H,F,3,L,F,C,T,2
 WA,27,H,F,3,L,E,A,C,2
 TX,46,H,F,2,L,E,D,R,2
+other,39,H,M,2,L,F,A,T,2
 other,26,U,F,1,L,E,A,C,2
 CA,24,H,M,3,L,F,A,C,1
 TX,35,H,F,3,L,F,A,T,1
@@ -18597,6 +18649,7 @@ GA,44,H,M,3,L,D,A,R,2
 CA,35,H,F,3,L,G,A,T,1
 other,22,U,F,1,L,F,C,C,1
 IL,13,H,M,3,L,F,A,S,1
+other,43,U,F,1,L,E,A,R,2
 CA,22,U,M,1,L,F,A,C,1
 GA,40,U,F,3,L,F,A,T,2
 IL,7,U,M,1,L,G,A,U,2
@@ -18661,6 +18714,7 @@ CA,36,H,F,2,L,F,C,T,2
 MI,12,U,M,1,L,E,C,S,1
 other,18,U,F,1,L,F,B,S,2
 GA,35,H,F,3,L,F,A,T,1
+other,40,U,F,1,L,G,A,R,2
 NC,30,H,F,2,L,E,C,C,3
 FL,13,H,M,1,L,G,B,S,1
 other,44,H,M,2,L,E,C,R,2
@@ -19116,6 +19170,7 @@ IL,12,H,M,3,L,F,C,S,1
 IL,1,U,F,1,L,G,A,U,1
 other,41,U,F,1,L,F,D,T,3
 MI,14,U,F,2,L,G,A,S,1
+other,40,U,M,1,L,G,A,T,2
 IL,49,H,M,3,L,F,B,R,2
 other,39,H,Oth,1,L,F,B,T,2
 MO,24,H,F,3,L,F,A,C,1
@@ -19123,6 +19178,7 @@ GA,51,U,F,1,L,E,D,R,3
 IL,51,H,F,3,L,G,B,R,3
 TX,28,H,F,3,L,F,C,C,2
 TX,10,H,M,3,L,F,B,U,4
+GA,34,U,F,1,L,G,A,T,1
 other,12,H,F,3,L,G,B,S,1
 TX,40,H,M,3,L,G,A,T,2
 IL,36,H,M,2,L,E,D,T,2
@@ -19507,6 +19563,7 @@ IL,20,U,M,3,L,F,A,S,2
 MI,8,H,M,3,L,F,A,U,3
 TX,36,H,F,3,L,E,D,T,2
 CA,42,H,F,2,L,F,C,R,1
+other,46,H,F,2,L,G,A,R,2
 CA,13,H,M,3,L,E,A,S,1
 IL,43,U,F,2,L,F,D,R,2
 other,30,H,F,3,L,E,C,C,3
@@ -20583,6 +20640,7 @@ CA,7,H,F,1,L,F,A,U,2
 IN,36,U,M,3,L,E,D,T,2
 CA,4,H,F,3,L,F,A,U,2
 other,43,U,M,1,L,F,D,R,2
+other,18,H,M,3,L,E,A,S,2
 GA,40,H,F,3,L,F,A,T,2
 TX,31,U,F,1,L,G,D,C,3
 WA,49,H,F,3,L,F,D,R,2
@@ -20960,6 +21018,7 @@ CA,14,H,F,3,L,F,A,S,1
 other,18,H,M,3,L,G,A,S,2
 CA,9,U,F,2,L,E,A,U,3
 IL,8,U,M,2,L,F,A,U,3
+GA,40,U,F,1,L,E,A,R,2
 CA,1,U,M,1,L,F,A,U,1
 IN,11,H,F,3,L,G,B,S,1
 FL,2,H,F,1,L,G,A,U,1
@@ -21146,6 +21205,7 @@ other,49,U,F,2,L,D,C,R,2
 CA,38,H,F,3,L,F,B,T,2
 IL,45,H,F,2,L,F,D,R,2
 NC,39,U,F,3,L,F,B,T,2
+WI,24,H,M,2,L,F,A,C,1
 other,30,H,Oth,2,L,E,B,C,3
 FL,18,U,F,1,L,G,A,S,2
 GA,40,H,M,3,L,F,A,T,2
@@ -21205,6 +21265,7 @@ other,26,H,F,3,L,D,C,C,2
 NC,23,U,F,3,L,E,B,C,1
 MO,22,U,F,3,L,E,A,C,1
 other,12,U,F,1,L,F,B,S,1
+GA,44,U,F,2,L,D,A,R,2
 FL,8,H,M,3,L,G,A,U,3
 IN,33,H,Oth,2,L,E,C,C,3
 other,31,H,M,3,L,G,B,C,3
@@ -21898,6 +21959,7 @@ CA,27,U,M,1,L,G,C,C,2
 TX,31,U,Oth,2,L,G,C,C,3
 CA,18,U,M,1,L,F,A,S,2
 CA,35,H,M,3,L,G,B,T,1
+other,49,U,M,2,L,G,A,R,2
 FL,29,U,M,1,L,D,C,C,2
 MI,42,H,M,3,L,G,C,R,1
 MO,49,U,M,3,L,F,D,R,2
@@ -22480,6 +22542,7 @@ CA,16,H,F,3,L,E,A,S,2
 FL,11,U,F,2,L,E,A,S,1
 other,13,H,F,3,L,G,B,S,1
 MI,17,U,M,1,L,F,B,S,2
+other,4,U,F,2,L,F,A,U,2
 CA,14,H,M,3,L,G,A,S,1
 CA,11,U,F,1,L,F,A,S,1
 WI,38,U,F,1,L,E,B,T,2
@@ -22523,6 +22586,7 @@ other,12,H,M,3,L,F,B,S,1
 WI,16,H,F,3,L,F,B,S,2
 IL,30,H,M,3,L,E,A,C,3
 CA,5,H,F,2,L,F,A,U,2
+other,10,U,M,1,L,F,A,U,4
 other,46,U,F,1,L,F,C,R,2
 other,35,H,M,3,L,E,D,T,1
 other,39,H,M,3,L,F,B,T,2
@@ -22781,6 +22845,7 @@ FL,25,U,F,2,L,G,B,C,2
 CA,3,U,M,1,L,F,A,U,1
 other,40,H,F,3,L,G,C,T,2
 other,51,U,M,3,L,G,D,R,3
+FL,20,U,M,1,L,F,A,S,2
 CA,22,U,F,1,L,G,B,C,1
 MI,8,U,F,1,L,F,A,U,3
 CA,9,U,F,1,L,G,A,U,3
@@ -23127,6 +23192,7 @@ other,36,H,F,2,L,D,D,T,2
 IL,24,H,M,3,L,F,A,C,1
 IL,12,H,M,3,L,E,A,S,1
 FL,27,H,F,3,L,G,C,C,2
+other,40,U,F,1,L,E,A,T,2
 other,14,H,F,3,L,F,A,S,1
 other,36,H,M,3,L,F,D,T,2
 other,18,U,M,1,L,E,B,S,2
@@ -23419,6 +23485,7 @@ TX,35,H,M,3,L,G,B,T,1
 other,34,U,F,3,L,E,B,T,1
 CA,52,H,F,2,L,E,C,R,3
 other,21,H,F,3,L,E,B,S,3
+GA,27,H,M,3,L,F,A,C,2
 other,27,H,M,3,L,E,B,C,2
 CA,7,H,M,3,L,F,A,U,2
 TX,36,U,F,1,L,D,A,T,2
@@ -23717,6 +23784,7 @@ NC,39,U,F,1,L,F,B,T,2
 FL,29,H,M,3,L,E,B,C,2
 other,35,H,M,2,L,D,C,T,1
 NC,40,H,F,2,L,F,B,T,2
+other,40,H,M,3,L,F,A,T,2
 other,43,H,M,3,L,F,D,R,2
 MI,44,H,F,3,L,F,C,R,2
 CA,3,H,M,2,L,F,A,U,1
@@ -24181,6 +24249,7 @@ CA,8,U,M,1,L,E,A,U,3
 other,16,H,M,2,L,G,B,S,2
 other,43,H,F,2,L,G,D,R,2
 CA,15,U,F,1,L,F,A,S,1
+other,44,U,F,2,L,F,A,R,2
 CA,8,U,M,2,L,G,A,U,3
 TX,18,U,F,1,L,F,A,S,2
 CA,38,U,F,2,L,E,C,T,2
@@ -24547,6 +24616,7 @@ CA,13,U,M,1,L,E,A,S,1
 FL,31,H,M,3,L,E,B,C,3
 GA,14,H,F,3,L,F,A,S,1
 other,39,U,F,3,L,F,C,T,2
+other,34,U,F,1,L,F,A,T,1
 WA,30,H,F,3,L,G,B,C,3
 GA,21,U,F,1,L,G,A,S,3
 other,43,U,F,1,L,F,D,R,2
@@ -24676,6 +24746,7 @@ MI,44,H,F,3,L,E,B,R,2
 other,53,H,F,2,L,F,B,R,3
 NC,49,U,F,3,L,E,C,R,2
 WA,39,U,M,1,L,F,B,T,2
+other,10,U,M,1,L,F,A,U,4
 FL,20,H,F,3,L,D,B,S,2
 WA,30,U,M,1,L,G,A,C,3
 other,24,H,F,3,L,E,B,C,1
@@ -24693,6 +24764,7 @@ FL,10,U,F,1,L,D,A,U,4
 FL,30,H,F,3,L,D,B,C,3
 CA,17,U,F,1,L,F,A,S,2
 TX,18,H,M,2,L,F,A,S,2
+GA,36,U,M,3,L,F,A,T,2
 other,41,U,F,2,L,F,D,T,3
 other,49,H,F,2,L,G,D,R,2
 other,39,H,M,3,L,F,B,T,2
@@ -25008,6 +25080,7 @@ TX,49,U,F,2,L,G,D,R,2
 other,45,H,F,2,L,G,D,R,2
 other,17,U,F,3,L,E,B,S,2
 IL,40,H,F,3,L,F,A,T,2
+other,18,U,M,2,L,E,A,S,2
 TX,36,U,F,2,L,F,C,T,2
 CA,41,H,F,2,L,F,B,T,3
 GA,24,H,F,3,L,F,B,C,1
@@ -25370,6 +25443,7 @@ TX,12,H,M,1,L,E,A,S,1
 IL,10,H,F,2,L,G,A,U,4
 CA,9,U,F,1,L,G,A,U,3
 other,30,U,M,1,L,F,B,C,3
+other,19,U,M,1,L,F,A,S,2
 other,43,H,M,3,L,F,D,R,2
 other,39,H,M,2,L,F,B,T,2
 TX,30,U,F,1,L,F,A,C,3
@@ -26197,6 +26271,7 @@ WI,39,H,M,2,L,D,D,T,2
 other,49,U,F,3,L,F,B,R,2
 other,46,H,M,3,L,E,D,R,2
 FL,40,U,F,1,L,G,C,T,2
+other,38,H,F,3,L,F,A,T,2
 CA,8,H,F,3,L,F,A,U,3
 CA,25,U,F,2,L,G,A,C,2
 other,30,H,M,3,L,E,B,C,3
@@ -26389,6 +26464,7 @@ FL,18,H,F,3,L,D,A,S,2
 other,40,U,M,1,L,G,D,R,2
 MI,32,U,M,2,L,F,A,C,3
 other,18,H,M,3,L,E,A,S,2
+other,40,U,F,1,L,F,A,R,2
 CA,8,H,M,3,L,F,A,U,3
 other,38,H,M,2,L,F,B,T,2
 MI,12,H,M,3,L,F,B,S,1
@@ -26471,6 +26547,7 @@ IN,49,U,M,1,L,D,C,R,2
 other,37,U,F,3,L,F,C,T,2
 WA,16,U,F,1,L,G,A,S,2
 MI,31,U,M,1,L,F,C,C,3
+other,10,U,M,1,L,G,A,U,4
 IL,3,U,M,1,L,F,A,U,1
 CA,40,H,F,3,L,E,A,T,2
 other,47,H,F,2,L,E,D,R,2
@@ -26546,6 +26623,7 @@ other,39,U,M,3,L,E,B,T,2
 FL,23,H,M,3,L,F,B,C,1
 TX,12,H,M,1,L,F,B,S,1
 IL,28,U,F,1,L,F,C,C,2
+GA,35,H,M,3,L,G,A,T,1
 MI,7,H,F,2,L,F,A,U,2
 FL,24,U,F,1,L,E,A,C,1
 other,27,H,F,3,L,F,B,C,2
@@ -26722,6 +26800,7 @@ MI,20,U,F,1,L,F,B,S,2
 TX,46,H,M,2,L,F,B,R,2
 TX,41,U,F,3,L,F,D,T,3
 other,12,H,F,3,L,E,B,S,1
+other,36,U,F,1,L,F,A,T,2
 WI,49,H,M,3,L,F,C,R,2
 FL,35,H,M,3,L,F,B,T,1
 CA,8,H,F,3,L,F,A,U,3
@@ -26833,6 +26912,7 @@ CA,13,H,F,3,L,F,B,S,1
 CA,6,H,M,3,L,E,A,U,2
 other,49,U,Oth,3,L,F,C,R,2
 other,8,U,F,2,L,D,A,U,3
+other,10,U,F,1,L,E,A,U,4
 CA,14,H,F,2,L,G,A,S,1
 IL,30,U,F,3,L,F,B,C,3
 MO,36,H,M,3,L,E,C,T,2
@@ -26900,6 +26980,7 @@ IN,49,H,F,2,L,E,D,R,2
 other,51,U,M,1,L,F,B,R,3
 WA,28,U,M,3,L,E,C,C,2
 other,49,H,M,2,L,D,B,R,2
+other,36,U,M,1,L,E,A,T,2
 other,43,U,F,1,L,F,D,R,2
 MI,44,U,M,3,L,F,A,R,2
 WI,36,U,M,1,L,E,C,T,2
@@ -27930,6 +28011,7 @@ MI,40,U,F,2,L,F,A,T,2
 other,34,U,Oth,3,L,F,B,T,1
 CA,27,H,M,1,L,E,A,C,2
 MO,36,U,M,3,L,F,D,T,2
+GA,40,U,M,1,L,F,A,R,2
 MI,49,H,F,3,L,D,C,R,2
 WI,3,H,F,3,L,F,B,U,1
 other,31,U,F,2,L,G,C,C,3
@@ -28221,6 +28303,7 @@ TX,45,U,Oth,2,L,F,D,R,2
 MI,44,H,F,3,L,E,C,R,2
 WI,51,H,F,2,L,G,C,R,3
 other,23,H,F,2,L,E,A,C,1
+other,24,H,F,3,L,E,A,C,1
 CA,35,H,M,3,L,F,C,T,1
 WI,45,H,F,2,L,F,D,R,2
 other,14,H,M,3,L,F,B,S,1
@@ -28325,6 +28408,7 @@ other,44,H,F,3,L,F,C,R,2
 other,16,H,F,3,L,E,B,S,2
 other,36,H,M,1,L,D,D,T,2
 TX,39,H,F,2,L,G,A,T,2
+MI,44,H,F,3,L,E,A,R,2
 CA,7,U,F,1,L,F,A,U,2
 WI,44,H,F,3,L,F,C,R,2
 other,22,H,F,2,L,G,D,C,1
@@ -28342,6 +28426,7 @@ IL,40,U,F,3,L,G,A,R,2
 other,40,H,M,3,L,E,B,T,2
 CA,10,U,F,1,L,E,A,U,4
 other,1,U,F,3,L,E,B,U,1
+other,10,U,M,1,L,F,A,U,4
 FL,33,H,F,3,L,F,B,C,3
 other,50,U,F,3,L,G,D,R,3
 TX,45,U,F,1,L,F,D,R,2
@@ -28685,6 +28770,7 @@ other,42,U,F,1,L,F,C,R,1
 NC,38,U,M,3,L,E,C,T,2
 CA,12,U,F,1,L,F,A,S,1
 GA,31,H,F,3,L,E,A,C,3
+other,46,U,F,2,L,F,A,R,2
 WI,35,U,F,1,L,E,B,T,1
 other,49,U,Oth,1,L,D,C,R,2
 FL,50,U,M,1,L,F,D,R,3
@@ -28947,6 +29033,7 @@ FL,16,U,F,1,L,D,B,S,2
 other,30,H,F,3,L,G,C,C,3
 other,36,U,F,1,L,D,B,T,2
 other,41,U,M,1,L,F,C,T,3
+other,10,U,M,1,L,F,A,U,4
 NC,18,H,F,3,L,G,B,S,2
 WI,51,U,F,2,L,G,D,R,3
 other,17,U,M,1,L,E,B,S,2
@@ -29105,6 +29192,7 @@ other,12,H,F,3,L,F,B,S,1
 CA,15,U,F,1,L,E,A,S,1
 CA,22,H,F,3,L,G,B,C,1
 CA,13,H,M,3,L,F,A,S,1
+IL,12,H,F,1,L,E,A,S,1
 other,27,H,F,3,L,F,B,C,2
 IL,1,U,M,3,L,F,A,U,1
 FL,11,H,Oth,3,L,F,A,S,1
@@ -29496,6 +29584,7 @@ FL,20,H,F,3,L,D,B,S,2
 CA,1,H,M,3,L,G,A,U,1
 other,44,U,M,3,L,E,C,R,2
 CA,10,H,F,3,L,E,A,U,4
+other,24,H,F,2,L,G,A,C,1
 CA,30,H,F,3,L,D,B,C,3
 NC,41,U,M,3,L,F,B,T,3
 TX,16,U,F,2,L,F,A,S,2
@@ -29976,6 +30065,7 @@ CA,13,U,F,1,L,F,A,S,1
 CA,40,U,M,1,L,F,B,R,2
 FL,24,H,F,3,L,F,A,C,1
 other,17,U,M,1,L,F,C,S,2
+GA,32,U,F,1,L,F,A,C,3
 FL,53,U,F,1,L,E,A,R,3
 other,27,H,F,3,L,F,B,C,2
 IN,14,H,M,3,L,G,B,S,1
@@ -30047,6 +30137,7 @@ GA,24,H,M,3,L,D,B,C,1
 NC,22,H,M,3,L,G,C,C,1
 other,27,H,F,2,L,F,C,C,2
 CA,2,U,F,1,L,F,A,U,1
+other,27,U,M,1,L,E,A,C,2
 IN,36,U,F,3,L,D,B,T,2
 IL,41,U,M,2,L,G,D,T,3
 other,36,U,F,2,L,E,C,T,2
@@ -30337,6 +30428,7 @@ other,24,H,M,3,L,E,D,C,1
 MI,40,U,F,2,L,E,A,T,2
 other,51,H,F,2,L,E,D,R,3
 MI,39,H,M,3,L,F,B,T,2
+other,10,U,M,1,L,E,A,U,4
 FL,41,H,F,3,L,E,C,T,3
 MI,14,H,F,3,L,F,B,S,1
 NC,41,U,F,2,L,F,D,T,3
@@ -31091,6 +31183,7 @@ other,24,U,F,2,L,E,B,C,1
 CA,46,H,F,3,L,F,A,R,2
 other,21,H,M,3,L,F,B,S,3
 FL,15,H,F,3,L,G,A,S,1
+GA,11,H,F,3,L,F,A,S,1
 MI,36,U,F,1,L,D,C,T,2
 MI,8,U,F,2,L,G,A,U,3
 CA,23,U,M,1,L,F,A,C,1
@@ -31107,6 +31200,7 @@ MI,36,U,F,1,L,D,D,T,2
 IL,5,H,F,3,L,F,A,U,2
 other,27,H,M,3,L,F,B,C,2
 TX,30,H,F,2,L,E,B,C,3
+other,10,U,M,1,L,G,A,U,4
 MI,21,U,M,2,L,E,B,S,3
 CA,3,H,M,3,L,G,A,U,1
 FL,16,H,F,1,L,E,A,S,2
@@ -31123,6 +31217,7 @@ IN,44,H,F,2,L,G,B,R,2
 IL,27,U,F,1,L,D,A,C,2
 CA,42,U,M,2,L,G,D,R,1
 IL,40,H,F,3,L,F,A,T,2
+other,10,U,F,1,L,F,A,U,4
 MI,8,H,F,3,L,F,A,U,3
 CA,40,U,F,1,L,F,A,R,2
 NC,40,U,F,1,L,F,B,R,2
@@ -31301,6 +31396,7 @@ IL,10,U,F,2,L,E,A,U,4
 CA,46,U,M,2,L,F,B,R,2
 other,30,H,F,3,L,F,C,C,3
 other,45,U,F,1,L,F,D,R,2
+other,42,U,F,2,L,F,A,R,1
 other,27,U,M,1,L,G,B,C,2
 CA,13,U,F,1,L,F,A,S,1
 other,42,H,M,1,L,F,D,R,1
@@ -31329,6 +31425,7 @@ CA,2,H,M,3,L,F,A,U,1
 CA,14,H,F,3,L,E,A,S,1
 FL,12,H,M,3,L,E,B,S,1
 CA,46,U,F,2,L,F,B,R,2
+GA,40,H,F,2,L,D,A,R,2
 MO,1,H,F,3,L,G,A,U,1
 IL,7,U,M,3,L,F,A,U,2
 CA,11,U,M,1,L,F,A,S,1
@@ -31350,6 +31447,7 @@ CA,7,H,F,3,L,F,B,U,2
 MO,27,H,F,3,L,E,A,C,2
 other,51,U,F,3,L,F,D,R,3
 TX,18,H,F,3,L,F,A,S,2
+other,43,H,F,3,L,F,A,R,2
 CA,41,H,Oth,2,L,F,C,T,3
 other,18,H,M,3,L,G,B,S,2
 CA,3,U,F,1,L,F,A,U,1
@@ -31408,6 +31506,7 @@ CA,48,H,M,3,L,E,B,R,2
 other,34,H,F,3,L,F,C,T,1
 MI,10,H,F,2,L,D,A,U,4
 NC,36,U,F,3,L,F,B,T,2
+GA,35,H,M,2,L,E,A,T,1
 other,35,H,F,2,L,G,B,T,1
 IN,39,U,M,1,L,F,B,T,2
 IN,17,U,M,3,L,F,B,S,2
@@ -31568,6 +31667,7 @@ WI,40,H,Oth,3,L,D,C,T,2
 other,45,H,F,2,L,G,D,R,2
 GA,50,U,Oth,3,L,F,D,R,3
 IN,49,H,F,3,L,E,B,R,2
+other,36,U,M,2,L,F,A,T,2
 other,28,H,F,3,L,E,B,C,2
 other,30,H,F,3,L,F,B,C,3
 other,36,H,M,3,L,G,D,T,2
@@ -31912,6 +32012,7 @@ other,39,U,F,2,L,F,B,T,2
 other,27,H,F,3,L,E,B,C,2
 MO,21,H,M,2,L,F,A,S,3
 MO,11,U,F,2,L,E,A,S,1
+other,43,U,F,2,L,F,A,R,2
 WA,4,U,M,1,L,E,A,U,2
 other,24,H,F,3,L,F,C,C,1
 other,36,H,F,3,L,E,C,T,2
@@ -32502,6 +32603,7 @@ FL,46,H,F,2,L,F,C,R,2
 IN,51,H,M,3,L,E,D,R,3
 other,53,H,M,3,L,E,D,R,3
 WA,26,U,F,1,L,F,A,C,2
+other,44,U,F,3,L,G,A,R,2
 MO,27,H,F,1,L,F,A,C,2
 TX,18,H,F,3,L,F,A,S,2
 CA,39,U,F,3,L,E,D,T,2
@@ -32862,6 +32964,7 @@ other,40,U,M,3,L,G,B,T,2
 other,41,H,F,2,L,D,C,T,3
 GA,45,U,F,1,L,D,D,R,2
 WA,30,H,F,2,L,G,B,C,3
+other,10,U,M,1,L,E,A,U,4
 CA,24,U,F,1,L,E,A,C,1
 other,12,H,F,2,L,D,A,S,1
 MO,24,H,M,3,L,F,A,C,1
@@ -33210,6 +33313,7 @@ other,16,H,M,3,L,G,B,S,2
 other,2,H,F,1,L,F,B,U,1
 other,18,H,M,2,L,G,B,S,2
 other,8,H,F,3,L,E,B,U,3
+other,10,U,F,1,L,E,A,U,4
 FL,29,H,M,3,L,E,B,C,2
 CA,3,U,F,3,L,G,A,U,1
 other,42,U,F,1,L,G,C,R,1
@@ -33885,6 +33989,7 @@ other,35,H,M,3,L,F,C,T,1
 other,18,U,M,2,L,D,A,S,2
 WA,39,U,F,2,L,E,B,T,2
 IL,12,H,M,3,L,F,A,S,1
+other,10,U,F,1,L,F,A,U,4
 other,18,H,F,3,L,F,A,S,2
 other,35,U,F,1,L,D,B,T,1
 CA,35,H,M,3,L,G,A,T,1
@@ -34127,6 +34232,7 @@ other,45,H,M,2,L,F,D,R,2
 FL,35,H,F,3,L,E,B,T,1
 other,20,U,M,2,L,F,B,S,2
 other,28,U,M,1,L,G,C,C,2
+GA,24,H,M,3,L,G,A,C,1
 TX,11,H,M,3,L,G,B,S,1
 NC,24,H,M,3,L,F,C,C,1
 other,15,U,F,1,L,F,A,S,1
@@ -34364,6 +34470,7 @@ CA,11,H,F,1,L,F,A,S,1
 CA,12,U,F,1,L,E,A,S,1
 other,39,H,M,3,L,G,D,T,2
 WA,35,H,M,3,L,F,C,T,1
+other,34,U,F,2,L,D,A,T,1
 IL,18,H,F,3,L,E,A,S,2
 IL,24,U,F,3,L,G,C,C,1
 TX,24,H,M,3,L,F,A,C,1
@@ -34759,6 +34866,8 @@ IL,22,H,F,3,L,F,A,C,1
 other,39,U,M,1,L,F,B,T,2
 CA,6,H,F,3,L,E,A,U,2
 CA,38,U,M,1,L,F,D,T,2
+GA,42,U,M,1,L,E,A,R,1
+other,10,U,M,1,L,E,A,U,4
 IN,16,H,M,3,L,F,B,S,2
 FL,18,U,M,1,L,E,B,S,2
 NC,40,U,F,2,L,F,B,R,2
@@ -35554,6 +35663,7 @@ NC,24,U,F,2,L,E,C,C,1
 NC,22,H,F,1,L,F,B,C,1
 other,41,U,F,1,L,F,B,T,3
 CA,12,U,F,1,L,F,A,S,1
+GA,32,U,F,1,L,F,A,C,3
 CA,40,U,F,1,L,D,C,T,2
 other,41,H,M,2,L,F,D,T,3
 other,15,U,F,1,L,E,A,S,1
@@ -35567,6 +35677,7 @@ other,22,U,F,1,L,E,B,C,1
 CA,31,U,M,1,L,G,C,C,3
 GA,11,H,M,3,L,E,A,S,1
 CA,23,H,M,2,L,E,A,C,1
+IL,9,H,F,2,L,G,A,U,3
 MI,17,H,F,3,L,E,A,S,2
 IN,27,H,F,3,L,F,A,C,2
 MI,40,H,M,3,L,F,C,T,2
@@ -35675,6 +35786,7 @@ other,44,H,F,3,L,E,C,R,2
 NC,40,U,F,2,L,G,B,T,2
 other,11,H,F,2,L,E,B,S,1
 CA,16,U,F,2,L,F,A,S,2
+FL,37,H,F,2,L,E,A,T,2
 other,23,U,F,3,L,F,C,C,1
 GA,25,U,M,1,L,F,C,C,2
 CA,6,U,F,1,L,F,A,U,2
@@ -36297,6 +36409,7 @@ other,44,U,F,2,L,F,D,R,2
 TX,43,U,F,2,L,G,B,R,2
 TX,35,U,F,1,L,G,C,T,1
 IL,27,U,M,1,L,G,B,C,2
+other,40,U,F,1,L,F,A,R,2
 MI,36,U,F,1,L,D,B,T,2
 CA,40,H,F,2,L,F,A,R,2
 other,21,H,F,3,L,E,B,S,3
@@ -36876,11 +36989,13 @@ other,36,H,F,2,L,E,C,T,2
 CA,13,H,F,3,L,G,A,S,1
 other,50,U,F,1,L,G,C,R,3
 NC,27,H,M,3,L,F,B,C,2
+other,36,U,F,1,L,D,A,T,2
 other,44,U,F,1,L,E,A,R,2
 other,30,U,F,1,L,E,B,C,3
 MO,41,H,F,2,L,G,C,T,3
 CA,9,U,F,1,L,F,A,U,3
 other,34,U,M,2,L,E,C,T,1
+other,10,U,F,1,L,F,A,U,4
 CA,11,U,F,1,L,E,A,S,1
 WI,51,U,M,2,L,G,C,R,3
 other,12,H,M,3,L,F,B,S,1
@@ -37001,6 +37116,7 @@ MI,35,H,F,3,L,F,A,T,1
 other,35,H,M,2,L,F,C,T,1
 IL,8,H,M,2,L,E,A,U,3
 CA,29,H,F,3,L,G,A,C,2
+other,16,U,M,1,L,F,A,S,2
 NC,51,H,F,2,L,E,B,R,3
 NC,36,U,F,1,L,F,D,T,2
 NC,36,H,M,2,L,E,C,T,2
@@ -37192,6 +37308,7 @@ other,18,H,Oth,3,L,F,B,S,2
 other,10,H,M,2,L,F,B,U,4
 FL,40,H,M,3,L,G,A,R,2
 GA,27,H,M,3,L,F,B,C,2
+other,14,U,M,1,L,F,A,S,1
 CA,34,H,F,2,L,F,A,T,1
 WA,31,H,F,3,L,F,A,C,3
 other,26,U,M,2,L,F,B,C,2
@@ -37206,6 +37323,7 @@ other,15,U,F,3,L,F,B,S,1
 other,49,H,M,3,L,G,D,R,2
 MO,20,H,M,3,L,F,B,S,2
 CA,27,U,F,1,L,F,A,C,2
+TX,51,U,F,1,L,F,A,R,3
 NC,51,H,F,3,L,E,C,R,3
 IL,12,H,M,3,L,F,A,S,1
 MI,49,H,F,3,L,E,C,R,2
@@ -37231,6 +37349,7 @@ other,22,H,M,3,L,E,B,C,1
 WI,46,U,M,3,L,E,D,R,2
 IL,21,U,M,2,L,F,A,S,3
 CA,20,H,F,3,L,F,A,S,2
+other,42,U,M,2,L,F,A,R,1
 FL,29,U,F,1,L,G,B,C,2
 CA,48,U,F,1,L,F,B,R,2
 FL,40,H,M,3,L,F,B,T,2
@@ -37508,6 +37627,7 @@ CA,29,H,F,2,L,G,A,C,2
 FL,51,U,F,1,L,E,C,R,3
 FL,26,H,F,3,L,D,A,C,2
 other,24,U,F,3,L,E,C,C,1
+other,10,U,M,1,L,F,A,U,4
 NC,40,H,F,2,L,F,C,R,2
 WA,15,U,M,1,L,E,A,S,1
 other,45,U,F,3,L,G,B,R,2
@@ -37573,6 +37693,7 @@ FL,40,U,F,1,L,F,A,R,2
 CA,17,U,F,1,L,D,B,S,2
 other,45,H,M,2,L,E,D,R,2
 other,25,U,F,1,L,F,B,C,2
+CA,11,U,F,1,L,F,A,S,1
 NC,43,H,M,3,L,E,C,R,2
 other,46,U,F,2,L,F,D,R,2
 other,17,H,M,3,L,E,A,S,2
@@ -37644,6 +37765,7 @@ other,34,H,M,3,L,D,D,T,1
 GA,34,H,M,3,L,F,D,T,1
 GA,50,U,F,3,L,F,D,R,3
 other,44,H,F,2,L,F,C,R,2
+other,10,U,M,1,L,F,A,U,4
 other,30,H,F,3,L,E,B,C,3
 FL,30,H,M,3,L,F,A,C,3
 WA,16,H,M,3,L,E,A,S,2
@@ -38438,6 +38560,7 @@ other,39,H,M,2,L,F,C,T,2
 other,11,H,F,3,L,E,B,S,1
 CA,40,H,F,1,L,F,C,R,2
 CA,2,H,M,3,L,D,A,U,1
+GA,37,U,F,1,L,D,A,T,2
 other,27,U,F,1,L,E,C,C,2
 other,39,U,M,1,L,G,B,T,2
 other,36,U,M,3,L,E,B,T,2
@@ -38710,6 +38833,7 @@ IL,22,U,F,3,L,E,A,C,1
 TX,46,U,F,1,L,G,C,R,2
 NC,44,U,F,3,L,F,C,R,2
 NC,41,U,F,3,L,F,C,T,3
+other,40,U,M,2,L,F,A,T,2
 CA,2,H,M,3,L,F,A,U,1
 TX,23,H,M,2,L,F,B,C,1
 MO,28,H,M,3,L,D,B,C,2
@@ -39877,6 +40001,7 @@ CA,14,H,M,3,L,G,A,S,1
 TX,30,H,F,3,L,F,B,C,3
 IL,35,U,M,1,L,E,A,T,1
 NC,49,U,F,3,L,G,D,R,2
+other,10,U,M,1,L,G,A,U,4
 IN,21,U,F,1,L,F,A,S,3
 TX,36,H,F,2,L,F,C,T,2
 other,43,U,F,3,L,F,D,R,2
@@ -39981,6 +40106,7 @@ CA,40,H,F,3,L,G,A,R,2
 other,42,H,M,3,L,F,D,R,1
 FL,30,H,F,3,L,F,B,C,3
 CA,28,H,F,3,L,F,A,C,2
+other,49,H,F,2,L,F,A,R,2
 CA,40,U,M,3,L,F,B,T,2
 WI,45,U,M,1,L,F,D,R,2
 FL,6,H,M,3,L,E,A,U,2
@@ -40746,6 +40872,7 @@ other,36,H,F,3,L,F,C,T,2
 other,22,H,F,2,L,F,B,C,1
 other,49,U,M,2,L,F,C,R,2
 NC,47,U,M,3,L,D,B,R,2
+other,10,U,F,1,L,D,A,U,4
 CA,16,H,F,3,L,F,B,S,2
 IL,45,U,F,1,L,F,D,R,2
 other,30,H,F,2,L,E,C,C,3
@@ -40847,6 +40974,7 @@ FL,33,U,F,1,L,F,B,C,3
 IL,14,U,F,1,L,F,A,S,1
 CA,24,H,M,1,L,G,A,C,1
 other,35,U,F,1,L,F,B,T,1
+other,10,U,F,1,L,E,A,U,4
 other,53,H,M,3,L,F,D,R,3
 FL,27,H,M,3,L,F,B,C,2
 FL,26,U,M,3,L,E,A,C,2
@@ -41752,6 +41880,7 @@ GA,41,U,F,1,L,G,D,T,3
 IN,40,U,F,2,L,F,B,T,2
 TX,20,U,M,1,L,G,B,S,2
 WI,45,H,M,2,L,E,D,R,2
+other,10,U,M,3,L,E,A,U,4
 other,40,U,M,3,L,F,D,R,2
 CA,7,H,M,3,L,G,A,U,2
 WA,11,U,M,1,L,F,A,S,1
@@ -41884,6 +42013,7 @@ other,15,U,M,1,L,G,B,S,1
 other,47,H,M,3,L,E,C,R,2
 other,45,H,M,2,L,E,D,R,2
 MO,39,U,F,2,L,D,C,T,2
+other,51,U,M,1,L,F,A,R,3
 MI,8,H,M,3,L,F,A,U,3
 other,41,U,F,2,L,F,D,T,3
 other,46,U,F,1,L,D,D,R,2
@@ -42376,6 +42506,7 @@ GA,14,H,M,3,L,F,A,S,1
 NC,45,U,F,2,L,E,D,R,2
 MI,18,H,M,3,L,G,B,S,2
 WI,15,U,M,3,L,E,D,S,1
+other,34,U,F,1,L,F,A,T,1
 CA,40,H,F,3,L,F,A,R,2
 CA,9,U,F,3,L,F,A,U,3
 WA,13,H,M,3,L,G,A,S,1
@@ -42787,6 +42918,7 @@ CA,2,U,M,1,L,D,A,U,1
 other,53,H,F,2,L,F,D,R,3
 other,27,H,F,3,L,E,B,C,2
 CA,6,H,M,3,L,F,A,U,2
+other,28,H,F,2,L,F,A,C,2
 GA,43,U,M,1,L,G,D,R,2
 FL,28,H,M,3,L,F,C,C,2
 other,40,U,Oth,2,L,F,B,R,2
@@ -43368,6 +43500,7 @@ MO,42,H,F,3,L,F,C,R,1
 FL,18,H,F,3,L,F,A,S,2
 FL,26,H,M,1,L,G,B,C,2
 other,44,U,M,1,L,F,B,R,2
+other,10,U,F,1,L,F,A,U,4
 CA,16,H,F,2,L,F,A,S,2
 CA,6,U,F,1,L,G,A,U,2
 IN,49,U,M,1,L,F,D,R,2
@@ -43562,6 +43695,7 @@ CA,30,H,M,2,L,F,B,C,3
 MI,11,H,F,2,L,F,A,S,1
 other,21,H,M,2,L,F,B,S,3
 IL,26,H,F,3,L,F,B,C,2
+NC,23,U,M,2,L,F,A,C,1
 WA,1,H,M,3,L,F,A,U,1
 other,30,H,F,3,L,E,C,C,3
 FL,5,U,F,1,L,F,A,U,2
@@ -44013,6 +44147,7 @@ TX,12,U,F,1,L,F,A,S,1
 MO,38,H,M,3,L,G,B,T,2
 CA,16,H,M,2,L,F,A,S,2
 CA,39,U,F,1,L,E,C,T,2
+other,39,U,M,1,L,G,A,T,2
 other,17,U,M,1,L,F,B,S,2
 FL,27,U,M,2,L,F,C,C,2
 other,51,U,F,1,L,G,D,R,3
@@ -44274,6 +44409,7 @@ NC,40,H,M,2,L,D,B,R,2
 FL,33,U,F,3,L,E,B,C,3
 CA,40,H,M,3,L,F,A,R,2
 TX,21,H,M,2,L,F,A,S,3
+other,39,U,M,1,L,F,A,T,2
 other,25,H,M,3,L,F,B,C,2
 other,41,U,F,2,L,F,D,T,3
 CA,6,U,F,1,L,F,A,U,2
@@ -44318,6 +44454,7 @@ other,35,H,M,2,L,G,A,T,1
 TX,41,U,Oth,1,L,D,B,T,3
 IL,13,H,M,3,L,E,A,S,1
 other,49,U,F,1,L,E,D,R,2
+GA,30,U,F,1,L,E,A,C,3
 other,36,U,M,3,L,F,D,T,2
 CA,13,U,F,2,L,D,A,S,1
 FL,13,H,M,2,L,G,B,S,1
@@ -44892,6 +45029,7 @@ MI,53,U,F,1,L,F,D,R,3
 MI,27,U,M,1,L,F,C,C,2
 FL,30,U,M,2,L,F,B,C,3
 other,30,H,M,3,L,F,C,C,3
+other,40,U,F,1,L,G,A,R,2
 other,42,U,F,2,L,F,B,R,1
 other,38,H,M,3,L,F,C,T,2
 other,49,U,Oth,3,L,F,D,R,2
@@ -44906,6 +45044,7 @@ other,43,U,F,2,L,G,D,R,2
 NC,36,U,M,1,L,G,C,T,2
 CA,11,U,F,1,L,F,A,S,1
 other,30,H,M,3,L,E,B,C,3
+other,10,U,M,1,L,F,A,U,4
 CA,2,H,F,1,L,F,A,U,1
 CA,2,H,F,3,L,F,A,U,1
 other,53,H,F,2,L,F,D,R,3
@@ -45998,6 +46137,7 @@ other,35,H,Oth,3,L,E,B,T,1
 other,51,U,M,1,L,F,D,R,3
 other,6,U,M,1,L,G,B,U,2
 IN,30,H,F,3,L,E,C,C,3
+other,19,U,M,1,L,F,A,S,2
 MI,10,H,F,2,L,F,A,U,4
 TX,45,H,F,3,L,G,D,R,2
 other,13,H,F,3,L,F,D,S,1
@@ -46252,6 +46392,7 @@ other,41,U,F,1,L,E,D,T,3
 other,45,H,F,3,L,G,D,R,2
 CA,35,H,F,3,L,F,A,T,1
 FL,10,U,M,1,L,G,A,U,4
+other,40,H,F,2,L,E,A,T,2
 CA,23,H,F,2,L,E,B,C,1
 IL,53,U,M,3,L,G,D,R,3
 other,14,H,M,3,L,F,B,S,1
@@ -46640,6 +46781,7 @@ CA,12,H,F,2,L,F,A,S,1
 MI,49,U,F,1,L,G,D,R,2
 other,12,H,M,3,L,G,B,S,1
 WI,49,H,F,2,L,F,C,R,2
+other,10,U,M,1,L,E,A,U,4
 other,36,U,F,2,L,F,D,T,2
 TX,24,H,F,3,L,F,A,C,1
 NC,25,H,F,3,L,G,B,C,2
@@ -46819,6 +46961,7 @@ other,27,H,F,3,L,F,C,C,2
 GA,46,U,F,1,L,F,D,R,2
 other,31,H,F,3,L,F,B,C,3
 other,39,H,M,2,L,F,C,T,2
+other,49,U,F,1,L,F,A,R,2
 NC,44,U,F,1,L,F,B,R,2
 IL,18,H,Oth,1,L,E,A,S,2
 CA,9,U,F,2,L,F,A,U,3
@@ -47419,6 +47562,7 @@ WA,45,U,F,3,L,E,D,R,2
 FL,23,H,M,3,L,F,B,C,1
 FL,28,H,F,3,L,G,C,C,2
 IN,4,H,Oth,3,L,E,B,U,2
+GA,12,U,F,1,L,F,A,S,1
 other,43,U,M,1,L,F,D,R,2
 CA,19,U,F,1,L,F,A,S,2
 IN,16,U,F,1,L,F,B,S,2
@@ -47440,6 +47584,7 @@ other,35,U,F,3,L,G,C,T,1
 other,48,H,F,3,L,F,C,R,2
 other,51,U,F,1,L,G,B,R,3
 MI,18,H,F,2,L,F,A,S,2
+other,25,U,M,2,L,F,A,C,2
 WI,36,U,M,1,L,E,D,T,2
 other,14,H,M,2,L,E,B,S,1
 IN,44,H,M,3,L,F,B,R,2
@@ -47540,6 +47685,7 @@ IN,27,H,M,3,L,F,C,C,2
 other,41,U,F,1,L,E,B,T,3
 other,27,H,F,2,L,G,B,C,2
 WA,40,H,F,3,L,F,C,T,2
+other,27,U,M,1,L,F,A,C,2
 other,39,U,F,1,L,F,B,T,2
 TX,18,H,M,3,L,F,A,S,2
 WI,31,H,M,3,L,F,B,C,3
@@ -47670,6 +47816,7 @@ CA,10,U,F,1,L,F,A,U,4
 WA,39,U,F,1,L,F,D,T,2
 CA,2,H,F,2,L,F,A,U,1
 MO,28,U,F,1,L,E,C,C,2
+other,49,H,M,3,L,F,A,R,2
 other,36,H,M,2,L,F,C,T,2
 WA,17,H,F,3,L,F,A,S,2
 other,16,H,M,3,L,D,A,S,2
@@ -47737,6 +47884,7 @@ other,43,H,M,3,L,F,B,R,2
 FL,37,H,F,3,L,E,A,T,2
 other,18,H,F,3,L,E,B,S,2
 IL,15,U,F,1,L,F,A,S,1
+other,10,U,F,1,L,F,A,U,4
 IL,14,H,F,2,L,F,A,S,1
 other,37,U,F,1,L,F,C,T,2
 CA,4,U,F,1,L,G,A,U,2
@@ -47766,6 +47914,7 @@ IL,1,U,F,1,L,G,A,U,1
 CA,4,H,Oth,3,L,F,A,U,2
 CA,21,H,M,3,L,G,B,S,3
 IN,16,U,M,1,L,E,A,S,2
+other,10,U,M,1,L,D,A,U,4
 other,12,U,M,1,L,F,B,S,1
 other,18,H,M,3,L,F,B,S,2
 WI,38,U,F,2,L,F,B,T,2
@@ -48026,6 +48175,7 @@ CA,7,H,M,3,L,E,A,U,2
 CA,3,H,M,3,L,F,A,U,1
 MI,24,H,F,2,L,G,A,C,1
 other,9,U,M,1,L,E,D,U,3
+other,34,U,M,1,L,G,A,T,1
 other,15,H,F,1,L,E,B,S,1
 CA,10,U,F,1,L,G,A,U,4
 other,45,H,M,2,L,F,B,R,2
@@ -48081,6 +48231,7 @@ NC,46,H,F,3,L,G,D,R,2
 CA,21,U,M,1,L,G,B,S,3
 CA,24,U,F,1,L,F,C,C,1
 CA,11,U,F,1,L,F,A,S,1
+GA,39,U,F,2,L,G,A,T,2
 IL,14,H,M,3,L,F,A,S,1
 MI,10,H,M,2,L,G,A,U,4
 CA,30,U,F,1,L,F,B,C,3
@@ -48195,6 +48346,7 @@ other,18,U,M,1,L,F,A,S,2
 GA,35,H,F,3,L,G,D,T,1
 WA,36,U,M,3,L,E,C,T,2
 other,6,H,M,3,L,F,B,U,2
+FL,23,H,M,3,L,D,A,C,1
 other,35,U,M,1,L,E,D,T,1
 CA,3,U,F,1,L,E,A,U,1
 TX,35,H,M,3,L,F,D,T,1
@@ -48467,9 +48619,11 @@ IN,12,U,F,1,L,F,A,S,1
 IL,13,H,F,3,L,F,A,S,1
 other,53,U,F,3,L,E,D,R,3
 CA,14,H,F,2,L,G,A,S,1
+other,39,U,F,1,L,F,A,T,2
 IL,1,U,Oth,2,L,F,A,U,1
 other,40,H,M,3,L,F,B,T,2
 CA,40,U,F,1,L,F,A,R,2
+other,44,H,Oth,3,L,F,A,R,2
 CA,23,H,M,3,L,G,A,C,1
 IL,20,H,F,3,L,E,A,S,2
 MI,40,U,M,2,L,G,D,T,2
@@ -48557,6 +48711,7 @@ FL,29,H,F,3,L,G,B,C,2
 CA,5,H,M,3,L,E,A,U,2
 other,33,U,M,3,L,G,B,C,3
 CA,5,H,F,3,L,G,A,U,2
+other,27,H,M,3,L,F,A,C,2
 WI,35,U,F,1,L,G,B,T,1
 other,24,H,M,3,L,F,B,C,1
 NC,18,H,F,2,L,F,B,S,2
@@ -48603,6 +48758,7 @@ TX,15,H,M,3,L,F,A,S,1
 other,17,U,M,1,L,F,A,S,2
 other,43,U,M,2,L,D,D,R,2
 MI,12,U,F,2,L,F,A,S,1
+CA,13,U,M,3,L,F,A,S,1
 MI,7,H,F,2,L,F,A,U,2
 other,20,H,F,3,L,E,B,S,2
 TX,24,H,F,2,L,F,B,C,1
@@ -48846,6 +49002,7 @@ CA,11,U,F,1,L,E,A,S,1
 other,49,H,F,3,L,G,C,R,2
 IL,22,H,M,3,L,F,C,C,1
 CA,7,U,F,1,L,F,A,U,2
+other,14,U,F,1,L,F,A,S,1
 IL,27,H,F,2,L,F,A,C,2
 CA,24,H,M,2,L,E,A,C,1
 other,32,H,F,3,L,F,B,C,3
@@ -49050,6 +49207,7 @@ MI,18,H,F,2,L,F,A,S,2
 FL,28,U,F,3,L,E,B,C,2
 CA,35,H,F,3,L,F,A,T,1
 CA,8,H,M,2,L,G,A,U,3
+other,10,U,F,1,L,F,A,U,4
 IL,1,H,M,3,L,G,A,U,1
 FL,34,H,M,1,L,E,A,T,1
 MI,29,H,F,3,L,F,A,C,2
@@ -49684,6 +49842,7 @@ other,21,U,M,1,L,E,B,S,3
 other,41,U,M,2,L,F,D,T,3
 FL,28,U,F,1,L,F,C,C,2
 other,44,U,M,3,L,D,C,R,2
+other,46,U,F,1,L,F,A,R,2
 MI,21,H,M,3,L,F,B,S,3
 FL,12,H,M,2,L,F,B,S,1
 IL,16,H,M,3,L,F,A,S,2
@@ -49782,8 +49941,10 @@ MI,8,U,F,2,L,F,A,U,3
 FL,35,H,M,2,L,E,B,T,1
 CA,6,H,F,3,L,G,A,U,2
 GA,49,H,F,3,L,G,D,R,2
+other,44,H,M,2,L,E,A,R,2
 FL,23,U,M,1,L,F,A,C,1
 MI,40,H,F,2,L,F,C,T,2
+other,40,H,F,2,L,G,A,T,2
 other,40,U,F,3,L,F,D,R,2
 TX,2,H,M,3,L,G,A,U,1
 other,30,H,F,3,L,E,B,C,3
@@ -50082,6 +50243,7 @@ WA,40,U,M,2,L,D,A,R,2
 other,22,H,F,3,L,E,C,C,1
 MI,40,H,M,3,L,F,B,T,2
 other,45,U,Oth,2,L,E,B,R,2
+GA,40,H,M,1,L,G,A,R,2
 IL,38,U,F,3,L,E,D,T,2
 FL,29,U,M,3,L,G,A,C,2
 other,14,H,M,3,L,E,B,S,1
@@ -50159,6 +50321,7 @@ CA,49,U,F,1,L,F,D,R,2
 CA,31,U,F,3,L,F,B,C,3
 other,13,H,F,3,L,E,B,S,1
 TX,23,U,M,1,L,F,B,C,1
+other,36,U,F,1,L,D,A,T,2
 FL,28,H,F,3,L,G,C,C,2
 FL,28,U,F,1,L,F,B,C,2
 CA,7,H,M,3,L,F,A,U,2
@@ -50354,6 +50517,7 @@ NC,34,H,M,3,L,F,D,T,1
 other,53,U,F,3,L,E,D,R,3
 CA,13,H,M,3,L,G,A,S,1
 CA,13,H,M,3,L,F,A,S,1
+other,40,U,M,2,L,F,A,T,2
 TX,27,U,Oth,1,L,F,A,C,2
 MO,10,H,F,3,L,E,A,U,4
 TX,22,H,F,3,L,E,D,C,1
@@ -50521,6 +50685,7 @@ CA,42,H,M,2,L,E,D,R,1
 other,30,H,F,2,L,G,B,C,3
 IN,42,H,M,1,L,F,B,R,1
 CA,37,H,F,2,L,G,C,T,2
+other,37,H,M,2,L,F,A,T,2
 FL,38,H,F,3,L,F,A,T,2
 other,34,H,M,3,L,E,D,T,1
 other,10,U,M,1,L,F,B,U,4
@@ -50577,6 +50742,7 @@ CA,19,H,F,3,L,G,A,S,2
 CA,13,H,F,2,L,F,A,S,1
 WI,49,U,F,1,L,E,C,R,2
 CA,8,H,F,2,L,G,A,U,3
+other,10,U,M,1,L,G,A,U,4
 GA,18,U,F,2,L,F,A,S,2
 other,10,U,F,1,L,E,B,U,4
 WA,40,H,M,3,L,E,C,T,2
@@ -50751,6 +50917,7 @@ FL,24,U,F,1,L,F,B,C,1
 MI,38,U,M,1,L,F,B,T,2
 other,16,H,M,3,L,D,B,S,2
 CA,18,H,F,2,L,F,A,S,2
+other,36,H,M,2,L,F,A,T,2
 other,20,H,M,3,L,F,B,S,2
 WI,26,H,M,3,L,F,B,C,2
 CA,19,H,F,3,L,E,A,S,2
@@ -51101,6 +51268,7 @@ FL,12,H,F,3,L,F,B,S,1
 other,43,H,F,2,L,E,B,R,2
 GA,12,H,M,2,L,E,A,S,1
 CA,42,H,M,3,L,F,C,R,1
+GA,40,H,M,2,L,F,A,T,2
 IL,16,H,F,3,L,G,B,S,2
 WI,46,U,F,1,L,F,D,R,2
 WI,53,U,M,3,L,G,D,R,3
@@ -51188,6 +51356,7 @@ IL,45,U,F,3,L,F,D,R,2
 other,36,H,F,2,L,E,B,T,2
 TX,52,U,F,3,L,D,B,R,3
 TX,41,H,F,3,L,E,C,T,3
+other,42,U,M,2,L,F,A,R,1
 WI,44,U,Oth,3,L,F,C,R,2
 TX,39,H,M,3,L,E,B,T,2
 MO,45,H,M,3,L,D,B,R,2
@@ -51227,6 +51396,7 @@ CA,34,H,M,2,L,F,A,T,1
 other,27,H,F,2,L,F,C,C,2
 FL,23,U,F,1,L,F,B,C,1
 other,34,U,F,1,L,F,D,T,1
+other,34,U,F,3,L,F,A,T,1
 FL,41,U,M,3,L,F,B,T,3
 other,40,U,F,1,L,F,B,T,2
 CA,14,H,F,3,L,G,A,S,1
@@ -51249,6 +51419,7 @@ IL,45,U,F,3,L,E,A,R,2
 CA,13,H,Oth,3,L,F,A,S,1
 other,23,H,F,3,L,F,C,C,1
 NC,51,H,F,3,L,F,C,R,3
+GA,18,H,M,3,L,F,A,S,2
 MI,36,U,F,2,L,F,D,T,2
 IN,27,U,F,2,L,F,C,C,2
 WI,45,U,M,2,L,F,D,R,2
@@ -51417,6 +51588,7 @@ FL,8,H,F,3,L,F,A,U,3
 other,23,H,F,3,L,G,A,C,1
 NC,40,H,M,3,L,G,C,T,2
 WA,40,U,F,1,L,D,B,T,2
+other,10,U,F,1,L,G,A,U,4
 CA,6,H,F,3,L,E,A,U,2
 other,51,U,F,1,L,F,D,R,3
 CA,10,U,F,1,L,G,A,U,4
@@ -51450,6 +51622,7 @@ MI,16,H,F,3,L,G,A,S,2
 GA,35,U,M,1,L,F,A,T,1
 other,39,H,M,3,L,E,B,T,2
 TX,11,U,F,1,L,E,A,S,1
+other,49,U,F,1,L,E,A,R,2
 other,26,H,F,3,L,D,A,C,2
 CA,35,H,F,3,L,F,A,T,1
 CA,10,U,M,1,L,F,A,U,4
@@ -51470,6 +51643,7 @@ other,27,H,F,2,L,E,B,C,2
 WA,27,U,F,1,L,E,A,C,2
 CA,34,U,F,1,L,F,A,T,1
 TX,27,U,M,1,L,D,B,C,2
+other,39,H,F,2,L,F,A,T,2
 TX,39,H,F,3,L,F,A,T,2
 FL,32,H,M,3,L,E,B,C,3
 CA,4,U,Oth,2,L,F,A,U,2
@@ -51697,6 +51871,7 @@ IL,25,H,M,2,L,F,C,C,2
 other,26,H,F,3,L,F,B,C,2
 NC,34,H,F,3,L,G,C,T,1
 other,45,H,F,3,L,E,D,R,2
+TX,25,U,M,1,L,F,A,C,2
 TX,9,H,Oth,3,L,F,B,U,3
 other,18,H,F,3,L,G,A,S,2
 MI,17,U,F,1,L,F,A,S,2
@@ -52058,6 +52233,7 @@ CA,11,U,M,1,L,G,A,S,1
 GA,35,H,M,3,L,D,A,T,1
 FL,25,U,F,2,L,F,C,C,2
 CA,28,H,F,3,L,F,A,C,2
+other,34,U,F,1,L,F,A,T,1
 other,43,U,M,2,L,D,D,R,2
 other,35,H,F,1,L,G,B,T,1
 CA,3,U,F,1,L,F,A,U,1
@@ -52070,6 +52246,7 @@ TX,45,H,M,3,L,F,D,R,2
 CA,13,H,M,2,L,F,A,S,1
 WI,48,U,M,1,L,E,D,R,2
 other,35,U,F,1,L,F,C,T,1
+other,35,U,F,3,L,G,A,T,1
 TX,18,H,M,3,L,F,A,S,2
 other,10,H,F,3,L,F,B,U,4
 other,21,H,M,3,L,F,B,S,3
@@ -52694,6 +52871,7 @@ CA,31,U,F,1,L,G,C,C,3
 other,34,H,F,3,L,E,D,T,1
 MI,40,H,F,3,L,G,A,T,2
 CA,24,H,F,3,L,E,B,C,1
+other,40,U,M,1,L,F,A,R,2
 other,21,U,F,2,L,E,B,S,3
 TX,41,U,F,3,L,D,B,T,3
 IL,17,U,M,2,L,F,A,S,2
@@ -52824,6 +53002,7 @@ MI,8,H,F,2,L,G,A,U,3
 other,11,H,F,3,L,G,B,S,1
 other,51,H,M,2,L,G,D,R,3
 NC,38,H,F,3,L,F,C,T,2
+other,10,U,M,1,L,G,A,U,4
 CA,8,U,M,1,L,F,A,U,3
 MI,18,H,F,3,L,F,A,S,2
 other,47,H,F,3,L,D,D,R,2
@@ -52841,6 +53020,7 @@ other,41,U,M,2,L,G,D,T,3
 FL,23,U,M,1,L,F,C,C,1
 CA,15,U,F,3,L,D,A,S,1
 other,20,U,F,1,L,D,B,S,2
+other,40,U,F,1,L,D,A,R,2
 TX,49,H,M,2,L,F,A,R,2
 IL,44,U,F,1,L,E,A,R,2
 WA,49,U,F,1,L,F,C,R,2
@@ -53217,6 +53397,7 @@ other,36,U,F,3,L,F,B,T,2
 TX,11,H,Oth,3,L,G,B,S,1
 MI,29,U,F,3,L,F,A,C,2
 CA,1,U,F,1,L,F,A,U,1
+GA,45,U,F,1,L,F,A,R,2
 TX,2,H,M,3,L,G,B,U,1
 CA,31,H,F,3,L,G,A,C,3
 IL,11,H,M,3,L,F,A,S,1
@@ -53577,6 +53758,7 @@ MI,16,H,F,2,L,F,A,S,2
 GA,40,U,F,3,L,E,A,T,2
 IL,16,U,M,2,L,F,A,S,2
 other,35,H,M,3,L,F,B,T,1
+other,27,H,M,3,L,F,A,C,2
 GA,12,U,F,1,L,F,A,S,1
 MI,35,U,F,3,L,E,C,T,1
 IL,13,H,F,1,L,D,A,S,1
@@ -54039,6 +54221,7 @@ WA,40,U,F,1,L,F,B,T,2
 GA,40,H,M,3,L,F,A,T,2
 GA,40,U,M,1,L,F,C,R,2
 CA,23,H,F,1,L,F,A,C,1
+GA,32,U,F,1,L,G,A,C,3
 TX,17,U,M,1,L,G,A,S,2
 other,30,H,M,3,L,F,B,C,3
 other,23,U,M,1,L,G,B,C,1
@@ -54571,6 +54754,7 @@ other,41,U,M,1,L,E,D,T,3
 WI,44,U,M,2,L,F,B,R,2
 other,36,H,M,3,L,G,D,T,2
 CA,46,H,F,2,L,F,D,R,2
+other,34,U,F,2,L,F,A,T,1
 CA,6,H,F,1,L,D,A,U,2
 FL,5,H,M,3,L,F,A,U,2
 FL,10,U,M,2,L,E,A,U,4
@@ -54953,6 +55137,7 @@ other,36,H,M,3,L,E,D,T,2
 other,36,U,F,1,L,G,B,T,2
 IL,5,U,F,3,L,F,A,U,2
 FL,24,H,M,3,L,D,C,C,1
+IN,16,U,M,1,L,E,A,S,2
 other,24,H,F,3,L,D,A,C,1
 CA,1,U,M,3,L,F,A,U,1
 FL,18,H,M,3,L,F,B,S,2
@@ -56079,6 +56264,7 @@ TX,30,U,F,3,L,F,B,C,3
 CA,1,U,F,3,L,G,A,U,1
 other,42,H,F,3,L,F,D,R,1
 other,45,H,F,2,L,E,D,R,2
+other,35,U,F,1,L,G,A,T,1
 MO,28,H,F,3,L,F,B,C,2
 FL,11,U,F,1,L,F,B,S,1
 TX,12,H,F,3,L,F,B,S,1
@@ -56124,6 +56310,7 @@ IL,33,U,F,1,L,D,C,C,3
 CA,3,H,F,2,L,G,A,U,1
 other,37,H,M,2,L,F,C,T,2
 CA,35,H,F,1,L,F,A,T,1
+FL,4,H,M,3,L,F,A,U,2
 other,46,U,F,1,L,G,D,R,2
 IN,43,U,M,1,L,F,D,R,2
 FL,29,H,M,2,L,G,A,C,2
@@ -56611,6 +56798,7 @@ FL,24,H,M,1,L,G,B,C,1
 CA,38,H,M,2,L,F,A,T,2
 FL,30,U,F,3,L,F,B,C,3
 other,41,H,M,3,L,F,B,T,3
+NC,36,H,M,2,L,F,A,T,2
 other,43,H,M,3,L,G,C,R,2
 other,16,H,M,3,L,E,B,S,2
 WI,38,U,F,2,L,F,C,T,2
@@ -56618,6 +56806,7 @@ FL,14,U,F,1,L,E,A,S,1
 MI,36,H,F,3,L,D,A,T,2
 other,38,H,F,2,L,G,D,T,2
 NC,46,U,M,2,L,F,C,R,2
+other,44,U,M,2,L,F,A,R,2
 CA,7,H,M,3,L,D,C,U,2
 FL,12,H,F,3,L,E,B,S,1
 FL,40,H,F,3,L,E,B,T,2
@@ -56825,6 +57014,7 @@ NC,39,H,F,2,L,G,D,T,2
 MI,8,H,F,3,L,E,A,U,3
 other,10,H,F,2,L,G,B,U,4
 IL,20,U,F,3,L,D,A,S,2
+GA,49,U,F,1,L,G,A,R,2
 FL,24,U,M,2,L,F,C,C,1
 other,14,U,F,1,L,F,B,S,1
 FL,34,H,M,3,L,G,A,T,1
@@ -57201,6 +57391,7 @@ WI,36,U,M,1,L,G,C,T,2
 other,24,H,M,3,L,F,C,C,1
 FL,46,H,F,3,L,F,B,R,2
 MI,49,H,F,3,L,F,D,R,2
+other,42,U,F,2,L,F,A,R,1
 other,18,U,F,1,L,G,B,S,2
 NC,27,U,F,1,L,F,C,C,2
 CA,11,H,F,2,L,F,B,S,1
@@ -57289,6 +57480,7 @@ FL,8,H,F,3,L,G,A,U,3
 other,44,U,F,1,L,F,B,R,2
 FL,27,H,F,3,L,F,C,C,2
 CA,20,H,F,3,L,E,C,S,2
+WA,30,H,M,2,L,F,A,C,3
 other,43,H,F,2,L,F,D,R,2
 CA,35,U,F,1,L,F,C,T,1
 CA,40,U,F,1,L,E,A,T,2
@@ -57758,6 +57950,7 @@ WA,18,U,F,1,L,F,B,S,2
 other,2,U,M,1,L,F,B,U,1
 NC,34,H,Oth,3,L,E,C,T,1
 other,36,H,F,2,L,D,D,T,2
+other,42,H,F,2,L,G,A,R,1
 MI,8,H,F,3,L,F,A,U,3
 TX,17,U,F,1,L,F,A,S,2
 WA,26,H,M,2,L,F,B,C,2
@@ -57858,6 +58051,7 @@ CA,14,H,F,2,L,E,A,S,1
 FL,28,H,F,3,L,D,B,C,2
 other,45,H,F,2,L,D,D,R,2
 other,10,U,M,3,L,F,B,U,4
+other,10,U,F,1,L,E,A,U,4
 CA,22,H,F,2,L,F,A,C,1
 WA,16,U,F,1,L,E,A,S,2
 other,43,U,M,2,L,E,D,R,2
@@ -58523,6 +58717,7 @@ other,16,U,F,1,L,E,B,S,2
 NC,32,H,F,2,L,F,C,C,3
 other,40,H,F,3,L,G,B,T,2
 NC,35,H,M,3,L,G,C,T,1
+other,44,U,M,2,L,G,A,R,2
 CA,1,H,F,3,L,G,A,U,1
 CA,38,H,F,1,L,G,B,T,2
 other,35,U,M,1,L,F,C,T,1
@@ -58561,6 +58756,7 @@ WA,46,H,F,3,L,G,D,R,2
 IL,11,H,F,3,L,G,A,S,1
 other,39,H,M,3,L,F,B,T,2
 CA,21,U,F,1,L,G,B,S,3
+other,10,U,F,1,L,G,A,U,4
 WI,45,H,F,2,L,G,D,R,2
 other,35,U,F,3,L,F,A,T,1
 WA,40,U,F,1,L,F,A,R,2
@@ -58848,6 +59044,7 @@ IL,23,H,F,3,L,F,A,C,1
 other,11,U,F,2,L,F,B,S,1
 TX,53,U,M,2,L,F,D,R,3
 other,30,H,F,3,L,F,B,C,3
+FL,26,U,M,1,L,G,A,C,2
 other,41,H,M,2,L,D,A,T,3
 other,24,H,F,3,L,F,C,C,1
 WA,27,H,M,2,L,G,C,C,2
@@ -59114,6 +59311,7 @@ MI,41,H,M,3,L,F,C,T,3
 TX,40,U,F,2,L,F,B,R,2
 FL,45,H,F,3,L,F,C,R,2
 TX,22,U,M,3,L,F,B,C,1
+other,38,H,F,3,L,D,A,T,2
 TX,40,U,M,2,L,D,C,R,2
 IL,24,H,M,3,L,E,A,C,1
 other,18,H,M,3,L,E,B,S,2
@@ -59499,6 +59697,7 @@ CA,34,H,M,3,L,G,A,T,1
 other,36,U,F,1,L,E,D,T,2
 FL,6,U,F,1,L,E,B,U,2
 TX,45,H,F,2,L,F,D,R,2
+other,4,U,M,2,L,G,A,U,2
 NC,43,U,M,2,L,G,D,R,2
 CA,19,H,F,3,L,F,A,S,2
 WI,20,H,M,3,L,E,B,S,2
@@ -59522,6 +59721,7 @@ CA,6,H,F,3,L,D,A,U,2
 FL,23,H,F,3,L,G,B,C,1
 WA,39,H,M,3,L,F,C,T,2
 GA,36,U,F,1,L,F,D,T,2
+other,10,U,M,1,L,G,A,U,4
 IL,1,U,F,1,L,F,A,U,1
 FL,37,H,M,3,L,G,A,T,2
 MO,20,H,M,3,L,G,A,S,2
@@ -59595,6 +59795,7 @@ CA,2,H,M,3,L,F,A,U,1
 other,23,H,F,2,L,E,D,C,1
 CA,13,U,M,1,L,D,A,S,1
 MI,44,U,M,1,L,F,C,R,2
+other,10,U,F,1,L,G,A,U,4
 GA,18,U,F,1,L,F,A,S,2
 TX,24,H,F,1,L,F,A,C,1
 IL,20,U,F,3,L,F,A,S,2
@@ -59852,6 +60053,7 @@ other,40,U,M,1,L,F,B,R,2
 other,18,H,F,3,L,E,B,S,2
 IL,36,H,F,2,L,F,D,T,2
 CA,5,H,M,3,L,F,A,U,2
+other,10,U,M,1,L,F,A,U,4
 CA,3,U,M,1,L,F,A,U,1
 other,40,H,F,3,L,E,B,R,2
 other,12,H,M,1,L,F,B,S,1
@@ -60235,6 +60437,7 @@ MI,49,H,F,3,L,F,D,R,2
 other,30,U,F,1,L,F,B,C,3
 other,40,U,F,1,L,F,B,T,2
 WA,11,U,F,1,L,E,A,S,1
+other,18,U,F,2,L,G,A,S,2
 CA,12,U,M,1,L,F,A,S,1
 other,10,U,F,2,L,F,B,U,4
 MO,28,H,F,2,L,E,D,C,2
@@ -60406,6 +60609,7 @@ other,53,U,M,3,L,E,D,R,3
 IL,17,H,M,2,L,F,A,S,2
 CA,13,H,F,3,L,G,A,S,1
 TX,30,H,F,3,L,G,D,C,3
+other,38,U,F,2,L,F,A,T,2
 IN,35,U,M,3,L,G,B,T,1
 other,18,H,F,3,L,F,B,S,2
 other,35,U,F,3,L,E,C,T,1
@@ -60438,6 +60642,7 @@ other,38,U,M,3,L,G,D,T,2
 other,45,H,M,3,L,F,D,R,2
 other,12,H,M,3,L,G,B,S,1
 CA,12,H,Oth,2,L,G,A,S,1
+other,24,H,F,3,L,D,A,C,1
 MI,14,H,M,3,L,F,A,S,1
 NC,45,U,M,3,L,E,C,R,2
 other,21,H,F,2,L,E,A,S,3
@@ -60607,6 +60812,7 @@ MI,10,U,F,1,L,G,A,U,4
 other,53,U,M,3,L,E,D,R,3
 FL,18,H,M,2,L,F,B,S,2
 other,11,H,M,3,L,E,B,S,1
+other,44,U,M,2,L,F,A,R,2
 FL,12,H,M,3,L,G,A,S,1
 WA,27,H,M,3,L,F,C,C,2
 GA,47,H,F,3,L,F,D,R,2
@@ -60885,9 +61091,11 @@ other,39,U,F,3,L,F,B,T,2
 TX,16,H,M,3,L,E,B,S,2
 other,14,H,Oth,2,L,G,A,S,1
 MI,51,H,F,3,L,E,C,R,3
+other,10,U,M,1,L,F,A,U,4
 other,24,U,F,1,L,F,C,C,1
 GA,35,H,M,3,L,E,C,T,1
 WI,8,H,M,2,L,F,B,U,3
+other,44,U,F,1,L,G,A,R,2
 other,10,H,F,2,L,D,B,U,4
 MI,20,U,F,1,L,F,A,S,2
 other,11,H,F,3,L,E,A,S,1
@@ -60938,6 +61146,7 @@ CA,13,H,M,3,L,F,A,S,1
 CA,2,H,M,2,L,F,A,U,1
 FL,36,U,M,1,L,E,A,T,2
 TX,21,H,F,3,L,F,A,S,3
+other,39,U,F,2,L,G,A,T,2
 other,24,H,F,3,L,E,D,C,1
 WI,21,H,M,3,L,G,B,S,3
 other,27,H,F,3,L,F,B,C,2
@@ -60963,6 +61172,7 @@ other,49,U,M,1,L,F,B,R,2
 CA,49,U,M,2,L,G,A,R,2
 other,14,H,F,1,L,F,B,S,1
 other,49,U,F,3,L,F,D,R,2
+other,10,U,M,1,L,F,A,U,4
 WA,32,H,F,3,L,F,A,C,3
 other,49,H,F,3,L,F,B,R,2
 IL,46,H,F,3,L,E,D,R,2
@@ -60996,6 +61206,7 @@ TX,41,H,F,3,L,F,D,T,3
 other,28,H,F,3,L,F,C,C,2
 other,13,H,F,3,L,G,B,S,1
 FL,23,U,M,1,L,G,A,C,1
+other,12,H,F,2,L,E,A,S,1
 IN,27,H,F,3,L,F,C,C,2
 FL,40,H,M,3,L,D,A,R,2
 other,39,H,F,3,L,F,B,T,2
@@ -61676,6 +61887,7 @@ TX,30,H,F,3,L,F,A,C,3
 MI,17,U,F,1,L,G,A,S,2
 other,49,U,F,1,L,G,D,R,2
 other,48,H,M,3,L,G,B,R,2
+other,42,U,F,2,L,F,A,R,1
 other,40,U,F,1,L,F,B,T,2
 WI,40,U,F,2,L,D,B,T,2
 IN,25,U,F,1,L,E,C,C,2
@@ -61996,6 +62208,7 @@ CA,29,H,M,3,L,G,A,C,2
 GA,27,H,F,3,L,F,A,C,2
 other,51,U,M,1,L,G,D,R,3
 FL,27,H,F,3,L,E,B,C,2
+other,24,U,F,1,L,E,A,C,1
 other,13,U,F,1,L,G,B,S,1
 IN,21,U,M,1,L,F,B,S,3
 other,41,H,F,3,L,F,D,T,3
@@ -62798,6 +63011,7 @@ TX,35,H,F,3,L,D,B,T,1
 other,43,U,F,3,L,E,D,R,2
 TX,44,H,M,3,L,F,D,R,2
 FL,37,H,F,3,L,D,C,T,2
+other,44,H,F,3,L,F,A,R,2
 TX,44,H,M,2,L,G,A,R,2
 CA,2,U,F,1,L,G,A,U,1
 other,45,H,F,3,L,D,D,R,2
@@ -63924,6 +64138,7 @@ NC,43,U,F,2,L,F,C,R,2
 other,49,H,M,2,L,E,C,R,2
 CA,2,H,F,3,L,F,A,U,1
 TX,1,H,M,3,L,G,A,U,1
+other,40,H,F,2,L,F,A,T,2
 IL,11,U,F,3,L,F,A,S,1
 other,41,H,M,3,L,G,C,T,3
 FL,21,U,M,1,L,F,A,S,3
@@ -64077,6 +64292,7 @@ other,16,U,F,2,L,F,B,S,2
 other,30,H,F,1,L,G,B,C,3
 other,18,U,M,1,L,F,B,S,2
 TX,41,U,F,1,L,F,D,T,3
+GA,16,U,F,1,L,F,A,S,2
 GA,23,U,M,1,L,G,A,C,1
 IL,27,H,F,3,L,F,A,C,2
 CA,13,U,F,1,L,G,A,S,1
@@ -64139,6 +64355,7 @@ CA,38,H,M,3,L,F,C,T,2
 other,51,U,F,3,L,F,D,R,3
 GA,18,H,F,3,L,G,A,S,2
 CA,28,H,F,3,L,F,C,C,2
+other,40,U,F,1,L,F,A,R,2
 CA,19,U,M,1,L,F,A,S,2
 WI,40,U,M,1,L,E,D,T,2
 CA,14,H,F,2,L,E,A,S,1
@@ -64234,6 +64451,7 @@ CA,15,H,M,3,L,E,A,S,1
 CA,2,H,F,1,L,E,A,U,1
 other,27,H,F,3,L,E,C,C,2
 FL,22,H,F,3,L,E,C,C,1
+other,40,H,M,2,L,F,A,T,2
 CA,28,H,F,2,L,F,C,C,2
 CA,53,H,M,3,L,G,C,R,3
 TX,14,H,F,3,L,F,A,S,1
@@ -64649,6 +64867,7 @@ other,41,H,F,3,L,F,C,T,3
 other,31,U,F,3,L,D,B,C,3
 CA,12,H,F,2,L,G,A,S,1
 IL,30,H,M,2,L,G,A,C,3
+other,34,U,M,2,L,G,A,T,1
 NC,36,H,M,2,L,G,C,T,2
 IN,51,U,F,1,L,D,D,R,3
 other,50,U,M,3,L,E,B,R,3
@@ -64794,6 +65013,7 @@ other,51,H,F,3,L,F,B,R,3
 GA,15,H,M,3,L,F,A,S,1
 other,42,H,F,3,L,F,B,R,1
 MI,16,H,F,3,L,E,A,S,2
+other,40,U,M,1,L,F,A,R,2
 CA,42,H,M,2,L,E,C,R,1
 CA,5,H,F,3,L,G,A,U,2
 CA,11,H,F,3,L,F,A,S,1
@@ -65035,6 +65255,7 @@ other,49,U,F,2,L,F,B,R,2
 IN,27,H,M,3,L,F,A,C,2
 MI,16,H,M,3,L,G,B,S,2
 IL,14,U,M,1,L,G,A,S,1
+FL,23,U,F,1,L,F,A,C,1
 NC,26,U,F,1,L,F,B,C,2
 CA,12,H,M,3,L,F,A,S,1
 other,44,U,F,3,L,F,C,R,2
@@ -65068,6 +65289,7 @@ TX,27,U,F,3,L,E,B,C,2
 IN,36,U,M,3,L,G,D,T,2
 MI,39,U,M,2,L,F,B,T,2
 MI,5,H,F,1,L,F,A,U,2
+other,18,U,M,1,L,G,A,S,2
 other,26,U,F,1,L,E,C,C,2
 CA,13,U,M,1,L,G,A,S,1
 other,51,U,F,2,L,F,D,R,3
@@ -65135,6 +65357,7 @@ other,17,H,F,2,L,F,C,S,2
 CA,37,H,F,3,L,F,A,T,2
 other,43,U,F,1,L,E,C,R,2
 other,12,H,F,1,L,F,B,S,1
+other,40,U,M,1,L,E,A,R,2
 CA,14,U,F,1,L,F,A,S,1
 other,40,U,M,1,L,E,D,R,2
 IL,22,U,M,1,L,F,A,C,1
@@ -65144,6 +65367,7 @@ IN,49,H,M,3,L,E,D,R,2
 IL,1,H,Oth,1,L,G,A,U,1
 GA,30,H,M,3,L,F,B,C,3
 other,43,U,M,3,L,F,D,R,2
+other,40,U,F,1,L,G,A,R,2
 FL,45,U,M,1,L,F,D,R,2
 CA,5,H,M,3,L,F,A,U,2
 other,47,U,F,1,L,F,D,R,2
@@ -65249,6 +65473,7 @@ CA,20,H,M,3,L,G,A,S,2
 other,32,H,F,3,L,G,B,C,3
 FL,11,U,F,3,L,F,A,S,1
 GA,50,U,F,1,L,G,D,R,3
+other,38,U,F,2,L,F,A,T,2
 FL,21,U,F,1,L,F,A,S,3
 IL,24,H,F,3,L,D,C,C,1
 MI,16,H,F,2,L,F,A,S,2
@@ -65702,6 +65927,7 @@ WA,18,H,F,3,L,G,A,S,2
 IL,13,U,F,3,L,G,A,S,1
 other,38,U,F,2,L,F,B,T,2
 FL,41,H,M,2,L,G,A,T,3
+other,10,U,M,1,L,E,A,U,4
 NC,35,H,F,3,L,F,B,T,1
 CA,24,U,M,3,L,F,A,C,1
 CA,42,H,F,3,L,E,A,R,1
@@ -66326,6 +66552,7 @@ NC,36,H,M,3,L,F,C,T,2
 TX,18,H,M,3,L,E,B,S,2
 other,22,U,F,1,L,F,C,C,1
 MI,39,U,F,1,L,F,A,T,2
+FL,45,U,M,1,L,G,A,R,2
 other,45,H,M,2,L,G,D,R,2
 other,5,H,M,2,L,F,A,U,2
 MI,41,H,F,3,L,F,C,T,3
@@ -66434,6 +66661,7 @@ CA,7,U,F,2,L,E,A,U,2
 IL,21,H,F,1,L,E,B,S,3
 other,24,H,M,3,L,E,C,C,1
 CA,25,U,M,1,L,F,A,C,2
+CA,11,U,M,1,L,F,A,S,1
 other,34,U,F,3,L,G,A,T,1
 IL,36,U,F,2,L,E,C,T,2
 CA,11,H,M,2,L,E,A,S,1
@@ -66982,6 +67210,7 @@ other,51,U,F,1,L,D,D,R,3
 IN,31,H,F,2,L,F,C,C,3
 other,40,U,F,1,L,F,D,T,2
 MI,40,H,F,3,L,F,B,R,2
+FL,23,U,M,1,L,G,A,C,1
 NC,49,U,M,3,L,F,D,R,2
 CA,2,H,M,3,L,F,A,U,1
 other,31,U,M,3,L,F,C,C,3
@@ -67340,6 +67569,7 @@ other,11,H,F,2,L,E,B,S,1
 TX,30,H,F,3,L,G,A,C,3
 CA,11,U,M,2,L,E,A,S,1
 other,24,U,F,1,L,F,C,C,1
+other,44,H,M,2,L,F,A,R,2
 other,36,U,F,1,L,F,D,T,2
 GA,34,H,M,3,L,D,B,T,1
 IL,35,H,M,3,L,G,A,T,1
@@ -67990,6 +68220,7 @@ IL,18,H,M,3,L,E,A,S,2
 MI,53,H,M,3,L,F,D,R,3
 GA,35,U,F,1,L,F,C,T,1
 NC,39,H,F,3,L,D,B,T,2
+other,10,U,F,1,L,G,A,U,4
 IL,45,H,M,3,L,G,D,R,2
 other,43,U,F,1,L,D,B,R,2
 IN,46,H,M,3,L,E,A,R,2
@@ -68023,6 +68254,7 @@ IN,36,U,F,1,L,G,D,T,2
 MI,24,U,F,1,L,E,D,C,1
 GA,42,H,M,3,L,F,A,R,1
 IL,35,H,M,1,L,F,A,T,1
+other,40,U,F,1,L,F,A,R,2
 MI,15,H,F,2,L,F,A,S,1
 other,50,U,F,2,L,F,D,R,3
 CA,12,U,F,1,L,E,A,S,1
@@ -69144,6 +69376,7 @@ other,41,U,M,2,L,F,D,T,3
 IN,43,U,M,2,L,F,C,R,2
 IL,14,H,F,1,L,E,A,S,1
 NC,42,H,F,3,L,E,B,R,1
+FL,34,U,F,1,L,F,A,T,1
 CA,12,H,M,2,L,G,A,S,1
 TX,8,H,F,3,L,F,B,U,3
 MO,51,U,F,2,L,G,D,R,3
@@ -69313,6 +69546,7 @@ other,10,H,F,3,L,F,B,U,4
 IL,18,H,M,3,L,F,A,S,2
 CA,15,U,M,1,L,G,A,S,1
 TX,25,U,F,1,L,F,A,C,2
+other,51,U,F,1,L,E,A,R,3
 other,40,U,F,1,L,F,B,T,2
 MO,49,U,M,3,L,F,D,R,2
 other,29,U,M,1,L,G,A,C,2
@@ -69708,6 +69942,7 @@ other,42,H,F,3,L,E,B,R,1
 other,49,H,F,2,L,F,C,R,2
 IN,16,U,F,1,L,F,B,S,2
 other,11,U,M,1,L,G,B,S,1
+CA,31,U,F,1,L,G,A,C,3
 TX,21,H,F,3,L,E,A,S,3
 other,11,H,F,1,L,F,A,S,1
 IL,2,H,M,2,L,F,A,U,1
@@ -69947,6 +70182,7 @@ NC,25,U,F,2,L,F,B,C,2
 CA,4,U,M,2,L,F,A,U,2
 MI,49,U,M,3,L,D,D,R,2
 other,40,H,Oth,2,L,F,C,R,2
+other,10,U,F,1,L,G,A,U,4
 GA,41,U,M,2,L,F,D,T,3
 CA,14,H,Oth,3,L,E,A,S,1
 other,38,H,F,2,L,E,D,T,2
@@ -70416,6 +70652,7 @@ FL,8,H,M,3,L,F,A,U,3
 other,34,H,F,1,L,F,B,T,1
 MO,51,U,F,1,L,F,D,R,3
 other,40,U,F,1,L,F,C,R,2
+GA,30,U,F,1,L,E,A,C,3
 other,35,H,M,3,L,D,B,T,1
 NC,39,H,Oth,3,L,E,B,T,2
 WA,12,H,M,3,L,F,A,S,1
@@ -71618,6 +71855,7 @@ TX,34,H,M,3,L,E,B,T,1
 WA,31,U,F,1,L,F,B,C,3
 MI,36,U,M,1,L,E,D,T,2
 TX,48,U,M,1,L,E,D,R,2
+other,10,U,Oth,1,L,F,A,U,4
 other,49,U,M,1,L,G,D,R,2
 FL,13,H,M,3,L,F,B,S,1
 CA,38,H,F,2,L,E,C,T,2
@@ -71817,6 +72055,7 @@ CA,2,U,F,1,L,E,A,U,1
 TX,14,H,F,3,L,F,A,S,1
 TX,50,H,M,2,L,D,D,R,3
 MI,36,H,F,2,L,F,D,T,2
+other,44,H,M,2,L,G,A,R,2
 IL,21,H,M,3,L,F,A,S,3
 TX,30,U,F,3,L,F,C,C,3
 FL,12,U,F,1,L,F,A,S,1
@@ -72574,6 +72813,7 @@ IL,16,H,F,3,L,F,A,S,2
 IL,27,U,F,3,L,G,A,C,2
 IL,53,U,F,3,L,F,D,R,3
 CA,11,H,F,2,L,D,A,S,1
+other,10,U,F,1,L,G,A,U,4
 MI,27,U,M,3,L,F,B,C,2
 TX,31,U,F,1,L,F,A,C,3
 CA,40,H,F,2,L,E,A,T,2
@@ -72619,6 +72859,7 @@ other,36,H,M,3,L,G,D,T,2
 CA,42,U,F,1,L,F,A,R,1
 other,12,U,M,1,L,F,B,S,1
 FL,23,U,F,3,L,G,B,C,1
+other,43,U,F,1,L,F,A,R,2
 GA,40,U,F,1,L,F,A,R,2
 WA,46,H,F,2,L,F,C,R,2
 WA,43,H,F,2,L,F,B,R,2
@@ -73327,6 +73568,7 @@ CA,14,H,F,2,L,F,A,S,1
 TX,48,H,F,3,L,F,A,R,2
 MO,10,H,M,2,L,F,B,U,4
 WI,40,H,M,3,L,D,B,T,2
+WA,30,H,F,2,L,F,A,C,3
 other,45,U,F,1,L,F,D,R,2
 CA,11,H,M,2,L,G,A,S,1
 other,27,U,M,3,L,E,D,C,2
@@ -73504,6 +73746,7 @@ CA,22,U,F,2,L,F,A,C,1
 other,23,U,F,2,L,G,D,C,1
 NC,47,U,Oth,3,L,F,B,R,2
 other,24,H,F,2,L,D,B,C,1
+other,39,U,M,3,L,F,A,T,2
 FL,8,H,F,3,L,E,A,U,3
 FL,48,H,M,3,L,G,C,R,2
 NC,39,U,F,1,L,E,B,T,2
@@ -74459,6 +74702,7 @@ other,39,H,M,3,L,D,B,T,2
 other,39,H,F,3,L,D,B,T,2
 CA,12,U,F,1,L,G,A,S,1
 IL,24,U,F,1,L,F,A,C,1
+other,10,U,M,1,L,D,A,U,4
 MO,8,U,F,2,L,E,A,U,3
 IL,8,H,F,3,L,G,A,U,3
 other,35,H,F,1,L,F,B,T,1
@@ -74872,6 +75116,7 @@ TX,1,U,F,1,L,F,A,U,1
 other,35,U,F,1,L,F,B,T,1
 NC,49,H,F,3,L,G,B,R,2
 CA,27,H,M,3,L,G,A,C,2
+FL,29,U,F,3,L,G,A,C,2
 WI,35,H,M,3,L,F,B,T,1
 CA,13,H,M,3,L,F,A,S,1
 other,25,H,F,3,L,D,C,C,2
@@ -75000,6 +75245,7 @@ NC,22,U,F,3,L,E,B,C,1
 CA,7,H,F,3,L,E,A,U,2
 FL,8,H,M,3,L,D,A,U,3
 GA,5,H,F,3,L,F,A,U,2
+other,44,U,M,1,L,E,A,R,2
 other,41,U,F,3,L,E,D,T,3
 MI,44,H,F,2,L,G,C,R,2
 MO,35,U,M,1,L,F,A,T,1
@@ -75198,6 +75444,7 @@ NC,35,H,M,3,L,G,B,T,1
 TX,24,U,F,1,L,G,A,C,1
 TX,49,H,F,2,L,F,A,R,2
 other,33,H,M,3,L,E,A,C,3
+other,49,H,F,2,L,E,A,R,2
 other,49,U,F,3,L,F,B,R,2
 MO,17,U,M,1,L,F,B,S,2
 WI,30,H,M,2,L,F,B,C,3
@@ -75532,6 +75779,7 @@ other,44,H,F,2,L,F,D,R,2
 other,40,H,M,3,L,G,C,R,2
 MO,43,U,M,2,L,F,D,R,2
 other,11,U,M,3,L,E,B,S,1
+other,40,U,F,3,L,G,A,T,2
 CA,1,H,M,2,L,F,A,U,1
 other,49,U,F,2,L,E,D,R,2
 FL,11,U,F,1,L,F,B,S,1
@@ -75719,6 +75967,7 @@ other,46,U,M,1,L,E,C,R,2
 NC,41,H,M,3,L,F,C,T,3
 CA,7,U,M,1,L,E,A,U,2
 IL,45,U,F,1,L,G,D,R,2
+other,14,H,Oth,1,L,E,A,S,1
 NC,40,U,M,3,L,F,C,T,2
 other,24,U,M,1,L,E,C,C,1
 MI,18,U,F,1,L,D,A,S,2
@@ -75943,6 +76192,7 @@ CA,8,H,M,3,L,G,A,U,3
 other,45,H,F,2,L,F,D,R,2
 FL,39,H,M,1,L,E,B,T,2
 CA,27,H,F,2,L,E,A,C,2
+MI,5,H,F,3,L,F,A,U,2
 NC,50,H,F,2,L,E,D,R,3
 other,25,U,F,1,L,G,C,C,2
 other,40,U,M,1,L,F,C,R,2
@@ -76161,6 +76411,7 @@ FL,29,U,M,1,L,F,C,C,2
 other,43,H,F,3,L,F,B,R,2
 MI,18,H,M,3,L,F,A,S,2
 NC,22,H,M,3,L,G,B,C,1
+other,36,U,F,1,L,D,A,T,2
 TX,12,U,F,2,L,F,A,S,1
 CA,8,U,F,1,L,F,B,U,3
 other,43,U,F,1,L,G,C,R,2
@@ -76343,6 +76594,7 @@ CA,19,H,M,2,L,G,A,S,2
 other,49,U,F,3,L,E,D,R,2
 GA,49,U,M,3,L,F,A,R,2
 other,38,U,F,3,L,E,D,T,2
+other,34,U,F,2,L,G,A,T,1
 MI,9,U,F,3,L,G,A,U,3
 other,29,H,M,3,L,G,B,C,2
 other,41,H,M,2,L,E,C,T,3
@@ -76432,6 +76684,7 @@ other,39,H,F,3,L,F,B,T,2
 WA,20,U,M,1,L,F,A,S,2
 other,49,H,F,3,L,F,C,R,2
 MI,49,H,M,2,L,F,D,R,2
+MI,40,H,M,3,L,E,A,R,2
 CA,1,U,F,1,L,G,A,U,1
 MI,11,U,F,2,L,D,A,S,1
 other,25,H,F,3,L,E,B,C,2
@@ -76598,6 +76851,7 @@ CA,27,U,M,1,L,E,B,C,2
 FL,29,H,M,3,L,E,B,C,2
 GA,38,H,M,2,L,D,D,T,2
 CA,27,H,F,2,L,F,C,C,2
+other,27,U,F,3,L,F,A,C,2
 CA,34,H,F,3,L,F,B,T,1
 FL,28,H,M,2,L,G,B,C,2
 other,36,U,M,3,L,E,D,T,2
@@ -77124,6 +77378,7 @@ CA,15,U,F,1,L,F,A,S,1
 other,28,H,F,3,L,D,B,C,2
 other,40,H,F,1,L,F,C,R,2
 TX,18,H,F,3,L,F,B,S,2
+other,10,U,M,1,L,E,A,U,4
 other,40,H,F,3,L,F,D,T,2
 WI,18,U,M,3,L,F,B,S,2
 TX,12,H,M,2,L,F,A,S,1
@@ -77381,6 +77636,7 @@ TX,24,H,F,1,L,F,A,C,1
 other,44,U,M,3,L,D,D,R,2
 other,27,H,M,3,L,E,C,C,2
 MI,5,H,F,2,L,G,A,U,2
+other,49,U,F,1,L,F,A,R,2
 MI,49,U,M,2,L,F,D,R,2
 other,49,U,M,2,L,G,D,R,2
 MI,14,H,M,2,L,D,D,S,1
@@ -77551,6 +77807,7 @@ other,17,H,F,1,L,F,B,S,2
 CA,40,H,M,3,L,F,A,R,2
 WI,45,U,M,2,L,G,B,R,2
 WA,17,U,M,1,L,G,C,S,2
+other,27,U,F,2,L,F,A,C,2
 TX,30,H,F,3,L,F,B,C,3
 CA,11,U,F,1,L,E,A,S,1
 other,30,H,F,2,L,F,B,C,3
@@ -77796,6 +78053,7 @@ CA,12,U,F,1,L,D,A,S,1
 TX,21,H,M,3,L,E,A,S,3
 FL,12,H,M,3,L,G,A,S,1
 other,12,H,M,3,L,G,A,S,1
+other,39,H,M,2,L,F,A,T,2
 NC,49,U,F,1,L,E,C,R,2
 TX,4,H,M,3,L,F,A,U,2
 MI,48,U,F,3,L,G,D,R,2
@@ -77822,6 +78080,7 @@ other,35,H,M,3,L,F,B,T,1
 MO,48,U,F,1,L,F,D,R,2
 MO,8,U,M,2,L,E,A,U,3
 other,20,U,F,3,L,E,A,S,2
+FL,31,U,F,2,L,G,A,C,3
 FL,39,H,M,3,L,F,C,T,2
 CA,23,H,F,3,L,G,A,C,1
 CA,24,H,M,2,L,E,A,C,1
@@ -78380,6 +78639,7 @@ CA,11,H,M,3,L,F,A,S,1
 other,40,U,F,1,L,G,B,T,2
 GA,11,H,F,3,L,F,A,S,1
 other,36,U,F,2,L,E,B,T,2
+other,38,U,F,2,L,G,A,T,2
 other,11,U,F,1,L,F,B,S,1
 CA,40,H,Oth,2,L,F,C,R,2
 IL,9,U,M,1,L,G,A,U,3
@@ -78445,6 +78705,7 @@ FL,28,H,F,2,L,F,C,C,2
 other,22,U,F,2,L,F,C,C,1
 CA,46,H,F,3,L,G,D,R,2
 other,24,H,M,3,L,G,B,C,1
+CA,40,U,F,1,L,F,A,R,2
 other,24,U,F,1,L,F,C,C,1
 other,51,H,M,2,L,F,D,R,3
 IN,31,H,M,3,L,E,C,C,3
@@ -78491,6 +78752,7 @@ other,15,U,M,3,L,F,B,S,1
 FL,12,H,F,2,L,G,B,S,1
 other,18,H,F,3,L,E,B,S,2
 other,18,H,M,3,L,E,B,S,2
+other,10,U,F,1,L,E,A,U,4
 IL,12,H,M,2,L,G,A,S,1
 TX,30,H,F,3,L,G,A,C,3
 MI,28,U,F,1,L,E,A,C,2
@@ -78607,6 +78869,7 @@ CA,35,U,M,2,L,F,A,T,1
 other,43,U,F,1,L,G,D,R,2
 FL,28,U,F,1,L,E,B,C,2
 other,51,U,F,1,L,F,D,R,3
+GA,35,H,M,2,L,E,A,T,1
 WA,38,U,M,1,L,G,A,T,2
 other,14,H,F,2,L,F,B,S,1
 IL,11,U,F,1,L,F,A,S,1
@@ -78715,6 +78978,7 @@ TX,18,H,M,3,L,G,A,S,2
 CA,1,U,F,1,L,F,A,U,1
 CA,3,H,M,2,L,G,A,U,1
 other,46,H,M,3,L,G,C,R,2
+CA,41,U,F,1,L,G,A,T,3
 NC,38,H,F,3,L,E,B,T,2
 TX,36,U,F,1,L,D,A,T,2
 other,36,H,M,3,L,E,D,T,2
@@ -78894,6 +79158,7 @@ FL,15,H,M,3,L,F,A,S,1
 MO,24,H,M,3,L,F,B,C,1
 FL,39,H,M,2,L,G,C,T,2
 CA,40,H,M,3,L,E,C,T,2
+other,10,U,M,1,L,F,A,U,4
 FL,39,H,F,3,L,F,C,T,2
 other,40,U,F,3,L,E,D,T,2
 other,24,H,F,2,L,E,C,C,1
@@ -78937,6 +79202,7 @@ TX,36,U,F,2,L,E,D,T,2
 other,8,H,M,3,L,F,A,U,3
 MI,13,H,F,3,L,F,A,S,1
 other,32,H,M,3,L,F,C,C,3
+other,27,H,M,2,L,F,A,C,2
 IN,15,U,M,1,L,E,B,S,1
 other,51,U,M,1,L,E,C,R,3
 IN,21,H,M,2,L,E,B,S,3
@@ -79643,6 +79909,7 @@ other,53,U,M,2,L,E,C,R,3
 other,46,H,M,2,L,F,B,R,2
 IL,7,U,M,3,L,F,A,U,2
 other,40,H,F,3,L,D,D,T,2
+other,10,U,F,1,L,F,A,U,4
 WA,27,U,F,1,L,G,D,C,2
 other,46,H,F,3,L,G,D,R,2
 other,24,H,M,2,L,F,B,C,1
@@ -80002,6 +80269,7 @@ IL,35,H,F,3,L,D,C,T,1
 CA,3,H,F,1,L,F,A,U,1
 CA,13,H,F,2,L,E,A,S,1
 FL,37,H,M,3,L,F,D,T,2
+other,10,U,F,1,L,F,A,U,4
 WA,40,H,F,2,L,F,A,T,2
 other,27,H,M,2,L,F,C,C,2
 CA,2,H,M,3,L,F,A,U,1
@@ -80920,6 +81188,7 @@ other,21,H,F,2,L,E,A,S,3
 other,33,U,M,1,L,D,C,C,3
 CA,13,U,F,1,L,F,A,S,1
 MO,16,U,F,1,L,E,B,S,2
+other,36,H,F,2,L,E,A,T,2
 GA,21,H,F,3,L,D,A,S,3
 CA,35,H,F,3,L,F,A,T,1
 IL,22,H,M,3,L,D,C,C,1
@@ -81288,6 +81557,7 @@ other,21,U,F,3,L,F,B,S,3
 FL,17,U,M,1,L,F,A,S,2
 CA,7,U,F,1,L,E,A,U,2
 WA,27,U,F,1,L,F,A,C,2
+other,40,H,M,2,L,G,A,T,2
 NC,44,U,F,2,L,E,D,R,2
 CA,11,H,F,3,L,G,A,S,1
 IN,39,U,F,3,L,F,D,T,2
@@ -81478,6 +81748,7 @@ IL,20,U,F,2,L,F,A,S,2
 WI,11,H,Oth,1,L,F,B,S,1
 MI,40,U,M,3,L,F,B,R,2
 TX,49,U,M,2,L,E,D,R,2
+other,45,U,F,1,L,F,A,R,2
 other,27,H,F,3,L,F,B,C,2
 GA,47,H,M,3,L,E,D,R,2
 other,45,U,F,1,L,E,D,R,2
@@ -82248,6 +82519,7 @@ CA,22,U,M,1,L,F,A,C,1
 GA,38,H,F,2,L,F,A,T,2
 FL,36,H,F,2,L,E,B,T,2
 CA,27,H,F,3,L,G,A,C,2
+other,36,U,M,1,L,F,A,T,2
 CA,15,U,F,1,L,G,A,S,1
 TX,10,U,F,1,L,D,A,U,4
 CA,15,U,F,1,L,F,A,S,1
@@ -82844,6 +83116,7 @@ other,41,U,M,1,L,E,D,T,3
 CA,2,H,F,3,L,F,A,U,1
 other,28,H,M,3,L,E,C,C,2
 other,49,U,F,3,L,E,D,R,2
+other,39,U,M,1,L,E,A,T,2
 other,35,H,F,3,L,G,B,T,1
 FL,41,H,F,3,L,E,A,T,3
 other,40,H,F,3,L,F,B,R,2
@@ -83198,6 +83471,7 @@ TX,17,U,F,1,L,F,A,S,2
 MO,17,H,F,3,L,F,A,S,2
 FL,13,H,F,3,L,F,B,S,1
 FL,33,U,Oth,2,L,D,A,C,3
+GA,40,H,F,3,L,E,A,T,2
 other,40,H,M,3,L,G,B,R,2
 other,31,H,F,2,L,E,B,C,3
 MO,8,U,F,1,L,F,A,U,3
@@ -83285,6 +83559,7 @@ CA,46,U,M,1,L,F,C,R,2
 IN,49,H,M,3,L,F,B,R,2
 other,5,H,F,2,L,G,A,U,2
 CA,14,U,F,1,L,E,A,S,1
+other,10,U,F,1,L,F,A,U,4
 WA,12,U,M,2,L,E,A,S,1
 GA,15,U,M,1,L,F,A,S,1
 MI,14,H,F,3,L,G,A,S,1
@@ -83581,6 +83856,7 @@ other,40,U,F,1,L,F,C,R,2
 MI,30,H,F,2,L,G,B,C,3
 IL,35,H,F,3,L,G,A,T,1
 FL,24,U,F,1,L,F,B,C,1
+GA,11,U,F,1,L,G,A,S,1
 CA,46,U,M,2,L,G,C,R,2
 other,44,U,F,1,L,F,C,R,2
 FL,29,H,M,3,L,F,A,C,2
@@ -83660,6 +83936,7 @@ other,30,H,M,3,L,G,C,C,3
 FL,29,U,F,1,L,F,B,C,2
 CA,13,H,F,3,L,G,A,S,1
 FL,31,H,M,2,L,G,A,C,3
+GA,32,U,M,1,L,G,A,C,3
 CA,4,U,M,1,L,F,A,U,2
 GA,41,U,M,1,L,G,C,T,3
 CA,2,U,F,1,L,G,A,U,1
@@ -83746,6 +84023,7 @@ TX,21,H,F,3,L,F,A,S,3
 WI,49,H,M,3,L,F,D,R,2
 TX,18,U,F,2,L,G,A,S,2
 MI,2,U,F,1,L,E,A,U,1
+other,24,H,F,2,L,E,A,C,1
 CA,46,H,M,3,L,G,D,R,2
 other,41,U,F,2,L,G,B,T,3
 CA,13,U,M,3,L,F,A,S,1
@@ -83765,6 +84043,7 @@ CA,49,H,M,3,L,F,C,R,2
 MO,40,H,F,3,L,G,C,R,2
 NC,47,H,M,2,L,F,C,R,2
 IN,46,U,M,3,L,G,D,R,2
+other,41,H,M,2,L,F,A,T,3
 WI,42,H,M,3,L,F,B,R,1
 other,14,H,M,3,L,F,A,S,1
 TX,18,H,F,3,L,F,A,S,2
@@ -83966,6 +84245,7 @@ other,7,H,F,3,L,F,B,U,2
 FL,29,H,M,3,L,G,B,C,2
 CA,24,H,M,2,L,G,A,C,1
 other,44,H,M,3,L,G,B,R,2
+other,40,U,F,2,L,F,A,T,2
 FL,20,H,F,3,L,E,B,S,2
 other,36,H,M,2,L,E,D,T,2
 FL,11,U,F,1,L,E,A,S,1
@@ -84341,6 +84621,7 @@ CA,40,H,F,3,L,G,C,T,2
 MI,40,H,M,3,L,E,B,R,2
 NC,46,U,M,1,L,F,C,R,2
 FL,13,H,F,2,L,G,B,S,1
+CA,15,U,F,1,L,E,A,S,1
 WI,27,U,F,1,L,F,C,C,2
 CA,7,H,Oth,3,L,E,A,U,2
 IL,30,U,F,2,L,F,A,C,3
@@ -84520,6 +84801,7 @@ CA,17,H,M,3,L,F,A,S,2
 IL,45,U,F,1,L,E,D,R,2
 other,50,H,M,2,L,D,D,R,3
 other,25,H,F,3,L,D,D,C,2
+other,10,U,M,1,L,D,A,U,4
 IN,49,U,M,1,L,F,B,R,2
 TX,39,H,F,3,L,F,D,T,2
 CA,28,U,M,2,L,F,A,C,2
@@ -84538,6 +84820,7 @@ CA,24,U,F,1,L,F,A,C,1
 other,37,H,M,3,L,F,D,T,2
 other,39,H,M,3,L,F,D,T,2
 CA,11,H,M,3,L,F,A,S,1
+other,40,U,F,1,L,G,A,R,2
 NC,32,H,F,3,L,E,B,C,3
 other,16,H,M,3,L,F,B,S,2
 other,45,H,M,2,L,F,D,R,2
@@ -84725,6 +85008,7 @@ WA,25,H,F,3,L,F,B,C,2
 CA,12,H,F,3,L,F,A,S,1
 CA,18,U,F,2,L,G,B,S,2
 WI,36,U,M,3,L,F,D,T,2
+other,43,U,M,2,L,G,A,R,2
 NC,40,U,F,2,L,F,B,T,2
 other,51,U,M,1,L,G,D,R,3
 other,40,U,M,3,L,F,C,T,2
@@ -85347,6 +85631,7 @@ CA,14,H,F,3,L,F,A,S,1
 CA,49,H,F,3,L,F,B,R,2
 IN,36,U,F,3,L,E,D,T,2
 GA,42,U,M,3,L,G,D,R,1
+other,40,U,M,1,L,G,A,R,2
 WA,27,H,M,3,L,F,C,C,2
 TX,25,U,F,3,L,F,A,C,2
 CA,3,H,F,2,L,F,B,U,1
@@ -85449,6 +85734,7 @@ WA,27,U,F,1,L,F,B,C,2
 other,22,H,M,3,L,D,B,C,1
 other,24,H,M,2,L,E,C,C,1
 FL,20,U,F,1,L,F,A,S,2
+other,10,U,F,1,L,F,A,U,4
 other,33,U,F,1,L,E,C,C,3
 other,14,H,M,2,L,E,A,S,1
 IL,22,U,F,1,L,G,D,C,1
@@ -85866,6 +86152,7 @@ other,30,H,M,3,L,F,B,C,3
 NC,36,H,F,3,L,G,C,T,2
 IN,42,H,F,3,L,E,D,R,1
 FL,17,H,M,3,L,E,A,S,2
+GA,31,H,M,3,L,F,A,C,3
 WI,46,H,M,3,L,F,D,R,2
 FL,49,H,M,3,L,F,A,R,2
 MO,41,U,M,3,L,F,B,T,3
@@ -85955,6 +86242,7 @@ IN,35,H,M,3,L,E,C,T,1
 CA,46,H,F,3,L,F,B,R,2
 MI,40,H,F,2,L,G,C,T,2
 MI,21,U,F,1,L,F,A,S,3
+GA,44,U,F,1,L,E,A,R,2
 WA,36,H,F,3,L,D,D,T,2
 CA,2,H,F,3,L,G,A,U,1
 FL,29,U,F,1,L,G,B,C,2
@@ -86018,6 +86306,7 @@ IL,26,U,F,1,L,F,A,C,2
 other,21,H,F,3,L,F,C,S,3
 IN,35,H,F,3,L,F,B,T,1
 WA,27,H,M,3,L,F,A,C,2
+GA,15,U,F,2,L,G,A,S,1
 CA,7,H,M,3,L,G,A,U,2
 other,40,U,M,2,L,F,B,R,2
 IL,35,H,F,3,L,G,A,T,1
@@ -86636,6 +86925,7 @@ MI,20,H,F,2,L,E,A,S,2
 FL,16,U,F,2,L,G,B,S,2
 other,25,U,M,2,L,F,B,C,2
 other,32,H,F,3,L,F,B,C,3
+other,40,U,F,1,L,F,A,T,2
 GA,50,H,M,2,L,F,D,R,3
 CA,11,U,F,1,L,F,A,S,1
 other,24,U,F,1,L,D,B,C,1
@@ -86698,6 +86988,7 @@ TX,18,U,M,2,L,F,A,S,2
 CA,23,U,F,2,L,F,A,C,1
 other,35,H,M,3,L,F,D,T,1
 CA,18,H,F,3,L,G,A,S,2
+other,40,U,F,1,L,F,A,T,2
 other,24,H,M,3,L,F,C,C,1
 other,44,H,F,3,L,F,B,R,2
 IL,8,U,F,3,L,G,A,U,3
@@ -87569,6 +87860,7 @@ other,10,H,F,3,L,F,B,U,4
 other,39,H,M,2,L,F,D,T,2
 CA,20,U,F,1,L,E,A,S,2
 IL,30,H,F,3,L,F,A,C,3
+other,38,U,F,1,L,F,A,T,2
 NC,9,U,F,1,L,G,C,U,3
 CA,14,U,M,1,L,E,A,S,1
 FL,37,H,F,3,L,E,B,T,2
@@ -88338,6 +88630,7 @@ CA,14,H,F,3,L,F,B,S,1
 CA,17,U,F,1,L,E,A,S,2
 other,44,H,M,2,L,F,D,R,2
 FL,4,H,M,3,L,F,A,U,2
+other,10,U,M,1,L,F,A,U,4
 CA,31,U,F,1,L,F,A,C,3
 other,43,H,F,2,L,E,D,R,2
 CA,13,H,F,3,L,F,A,S,1
@@ -88368,6 +88661,7 @@ other,10,U,F,1,L,F,B,U,4
 CA,2,U,F,1,L,E,A,U,1
 other,7,U,M,1,L,D,A,U,2
 other,36,H,F,2,L,F,D,T,2
+other,10,U,F,1,L,G,A,U,4
 CA,27,H,F,3,L,F,B,C,2
 CA,20,U,M,1,L,F,A,S,2
 IL,14,H,M,2,L,F,A,S,1
@@ -88788,6 +89082,7 @@ other,53,H,F,3,L,G,D,R,3
 IN,30,U,Oth,1,L,E,B,C,3
 other,45,U,M,1,L,F,A,R,2
 FL,26,H,F,1,L,E,B,C,2
+GA,35,U,F,1,L,F,A,T,1
 IL,11,U,M,3,L,E,A,S,1
 other,27,H,M,3,L,F,C,C,2
 MO,28,H,M,3,L,F,A,C,2
@@ -89111,6 +89406,7 @@ FL,13,H,Oth,3,L,E,A,S,1
 WI,45,H,F,3,L,F,D,R,2
 FL,3,H,M,3,L,E,A,U,1
 CA,35,H,M,2,L,G,A,T,1
+other,40,U,Oth,1,L,G,A,T,2
 TX,38,U,M,3,L,G,C,T,2
 CA,10,H,M,2,L,D,B,U,4
 IL,8,U,M,1,L,G,A,U,3
@@ -89482,6 +89778,7 @@ CA,3,U,F,1,L,G,A,U,1
 other,11,H,M,3,L,D,C,S,1
 other,13,H,F,3,L,F,B,S,1
 other,2,H,M,3,L,G,A,U,1
+other,44,U,M,2,L,G,A,R,2
 other,36,U,F,1,L,D,C,T,2
 CA,30,H,F,2,L,G,B,C,3
 FL,33,H,M,2,L,G,A,C,3
@@ -89692,6 +89989,7 @@ CA,29,H,M,3,L,E,A,C,2
 GA,49,U,M,1,L,G,B,R,2
 IN,28,H,M,3,L,D,A,C,2
 FL,33,U,M,1,L,G,B,C,3
+GA,35,H,M,2,L,G,A,T,1
 IL,28,H,F,3,L,F,B,C,2
 CA,20,U,F,1,L,F,A,S,2
 NC,46,U,F,1,L,D,C,R,2
@@ -90328,6 +90626,7 @@ IN,36,H,M,3,L,G,B,T,2
 GA,18,H,F,3,L,G,A,S,2
 other,41,U,M,3,L,F,D,T,3
 CA,2,H,F,1,L,F,A,U,1
+WA,27,H,M,2,L,F,A,C,2
 CA,14,H,M,2,L,E,A,S,1
 other,45,H,F,3,L,E,C,R,2
 IL,11,H,M,3,L,F,A,S,1
@@ -90693,6 +90992,7 @@ WA,27,H,F,3,L,E,A,C,2
 other,9,U,M,2,L,F,A,U,3
 other,38,H,F,2,L,G,B,T,2
 other,51,U,F,1,L,F,D,R,3
+other,26,U,F,3,L,F,A,C,2
 other,50,U,F,1,L,E,B,R,3
 CA,1,U,M,1,L,F,A,U,1
 FL,48,U,M,1,L,F,C,R,2
@@ -90733,6 +91033,7 @@ other,18,U,M,1,L,G,A,S,2
 other,5,H,F,3,L,F,B,U,2
 IL,1,U,F,3,L,F,A,U,1
 other,8,U,F,1,L,F,A,U,3
+other,10,U,M,3,L,F,A,U,4
 other,40,U,F,1,L,G,C,T,2
 NC,36,U,F,1,L,E,D,T,2
 MI,10,H,F,2,L,F,A,U,4
@@ -90755,6 +91056,7 @@ FL,11,H,M,1,L,E,B,S,1
 NC,15,H,M,3,L,F,B,S,1
 IL,45,U,F,1,L,G,D,R,2
 CA,1,U,M,3,L,F,A,U,1
+other,10,U,F,1,L,F,A,U,4
 IL,34,U,M,1,L,F,A,T,1
 CA,1,H,M,3,L,E,A,U,1
 other,40,H,M,1,L,F,C,T,2
@@ -90859,6 +91161,7 @@ other,27,H,F,3,L,E,C,C,2
 CA,13,U,F,1,L,F,B,S,1
 other,23,U,F,3,L,F,C,C,1
 WI,37,H,M,3,L,D,B,T,2
+other,40,H,M,2,L,F,A,T,2
 IN,41,U,M,3,L,G,D,T,3
 other,36,H,F,2,L,F,D,T,2
 other,42,H,M,3,L,F,B,R,1
@@ -91014,6 +91317,7 @@ CA,11,H,F,2,L,F,A,S,1
 TX,53,U,F,2,L,F,D,R,3
 FL,31,U,F,1,L,F,A,C,3
 TX,49,U,F,1,L,G,D,R,2
+other,40,U,M,1,L,D,A,R,2
 WI,3,U,M,2,L,G,B,U,1
 other,17,H,M,3,L,F,A,S,2
 IL,16,H,M,3,L,F,A,S,2
@@ -91581,6 +91885,7 @@ FL,32,H,F,2,L,E,B,C,3
 TX,53,U,M,2,L,G,D,R,3
 other,21,U,F,2,L,F,B,S,3
 FL,28,U,F,1,L,G,C,C,2
+other,40,U,F,1,L,G,A,R,2
 other,13,U,M,3,L,D,B,S,1
 CA,8,H,M,2,L,F,A,U,3
 GA,25,H,M,2,L,E,B,C,2
@@ -91657,6 +91962,7 @@ WI,7,H,F,2,L,G,B,U,2
 MI,40,H,F,2,L,F,B,T,2
 CA,6,U,F,1,L,F,A,U,2
 CA,8,H,M,2,L,E,A,U,3
+other,39,U,F,1,L,F,A,T,2
 NC,27,U,M,2,L,F,B,C,2
 CA,51,H,F,3,L,G,C,R,3
 CA,40,H,M,3,L,G,A,R,2
@@ -91669,6 +91975,7 @@ NC,43,H,F,3,L,F,C,R,2
 MI,24,U,F,3,L,F,C,C,1
 other,49,U,M,2,L,F,A,R,2
 FL,29,U,F,3,L,F,B,C,2
+other,10,U,F,1,L,D,A,U,4
 IL,51,U,F,3,L,D,D,R,3
 CA,24,H,F,1,L,F,C,C,1
 CA,1,U,F,3,L,E,A,U,1
@@ -91770,6 +92077,7 @@ MI,44,H,M,2,L,G,C,R,2
 CA,39,U,M,2,L,F,A,T,2
 FL,37,H,M,3,L,F,B,T,2
 other,44,H,M,3,L,F,D,R,2
+other,40,H,M,2,L,F,A,T,2
 other,36,U,M,1,L,E,C,T,2
 other,50,U,F,1,L,G,D,R,3
 other,49,U,M,1,L,F,D,R,2
@@ -91876,6 +92184,7 @@ other,29,U,F,1,L,G,A,C,2
 IL,23,H,F,3,L,F,A,C,1
 TX,7,H,M,2,L,F,A,U,2
 CA,7,H,F,3,L,F,A,U,2
+other,42,U,F,3,L,E,A,R,1
 other,31,U,F,3,L,E,D,C,3
 TX,30,H,F,3,L,E,A,C,3
 other,13,U,M,1,L,F,B,S,1
@@ -92560,6 +92869,7 @@ other,40,U,F,3,L,G,B,T,2
 other,2,U,F,1,L,E,A,U,1
 WI,20,U,M,1,L,F,B,S,2
 FL,37,H,M,3,L,F,D,T,2
+FL,8,H,M,3,L,E,A,U,3
 MI,36,H,F,3,L,F,D,T,2
 other,49,H,F,1,L,G,B,R,2
 FL,20,U,F,1,L,F,B,S,2
@@ -92598,6 +92908,7 @@ other,44,U,F,2,L,F,C,R,2
 IL,10,U,M,3,L,F,A,U,4
 TX,32,H,M,3,L,F,A,C,3
 CA,40,U,F,1,L,F,A,R,2
+other,40,U,M,1,L,F,A,R,2
 other,40,U,F,3,L,E,B,R,2
 other,36,U,M,3,L,G,D,T,2
 WA,33,U,M,1,L,F,C,C,3
@@ -92727,6 +93038,7 @@ CA,2,H,F,3,L,F,A,U,1
 other,40,U,F,3,L,E,C,R,2
 CA,23,U,F,1,L,F,A,C,1
 IL,51,H,F,3,L,F,D,R,3
+other,47,H,F,3,L,F,A,R,2
 CA,12,U,F,1,L,F,A,S,1
 WI,40,U,F,1,L,F,B,R,2
 other,18,H,M,3,L,D,B,S,2
@@ -92849,6 +93161,7 @@ TX,25,U,M,1,L,D,C,C,2
 CA,1,U,M,2,L,D,A,U,1
 WA,16,U,F,1,L,G,A,S,2
 CA,28,U,M,1,L,E,A,C,2
+other,10,U,F,1,L,F,A,U,4
 WA,35,H,Oth,3,L,D,A,T,1
 other,36,U,F,1,L,F,D,T,2
 FL,11,H,M,3,L,F,B,S,1
@@ -93030,6 +93343,7 @@ WA,46,H,F,2,L,F,C,R,2
 other,8,H,M,3,L,G,B,U,3
 WA,46,U,M,2,L,E,C,R,2
 other,23,H,M,3,L,F,B,C,1
+other,27,H,M,2,L,G,A,C,2
 IN,35,H,F,3,L,G,B,T,1
 CA,4,U,M,1,L,F,A,U,2
 other,12,U,F,1,L,F,B,S,1
@@ -93309,6 +93623,7 @@ CA,14,U,M,1,L,G,A,S,1
 other,39,H,M,3,L,D,D,T,2
 CA,15,H,F,3,L,G,A,S,1
 IL,16,U,F,1,L,G,A,S,2
+NC,23,U,M,2,L,F,A,C,1
 TX,30,H,M,2,L,F,A,C,3
 CA,27,U,F,1,L,E,B,C,2
 IL,35,U,M,3,L,G,C,T,1
@@ -94288,6 +94603,7 @@ MI,12,U,M,1,L,E,A,S,1
 WI,13,U,M,1,L,F,B,S,1
 NC,27,H,F,2,L,G,B,C,2
 MI,44,U,F,1,L,E,A,R,2
+other,45,H,M,2,L,G,A,R,2
 other,34,H,M,3,L,E,C,T,1
 IL,12,H,F,2,L,F,A,S,1
 FL,10,U,F,3,L,F,A,U,4
@@ -94654,6 +94970,7 @@ FL,28,H,M,3,L,F,B,C,2
 other,33,H,M,3,L,E,A,C,3
 other,38,U,F,3,L,D,B,T,2
 other,4,H,M,3,L,F,B,U,2
+other,39,U,F,1,L,G,A,T,2
 other,25,U,F,1,L,F,D,C,2
 FL,40,H,F,3,L,E,B,T,2
 MO,24,H,M,3,L,F,A,C,1
@@ -94701,6 +95018,7 @@ other,30,H,F,3,L,F,C,C,3
 WI,49,U,F,2,L,G,B,R,2
 GA,50,U,M,1,L,G,D,R,3
 other,24,H,M,3,L,G,B,C,1
+other,40,U,M,1,L,F,A,R,2
 other,29,U,M,1,L,F,A,C,2
 IN,17,H,F,3,L,E,B,S,2
 other,25,U,F,2,L,F,B,C,2
@@ -94864,6 +95182,7 @@ MI,8,U,Oth,2,L,D,A,U,3
 GA,15,U,F,1,L,F,A,S,1
 other,25,U,M,1,L,F,B,C,2
 FL,31,U,F,3,L,G,B,C,3
+other,10,U,M,1,L,F,A,U,4
 other,47,H,F,2,L,G,D,R,2
 IL,22,H,M,3,L,F,C,C,1
 CA,14,H,F,3,L,F,A,S,1
